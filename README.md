@@ -8,13 +8,13 @@ Base modals: [Stable Diffusion](https://github.com/CompVis/stable-diffusion) and
   
   *Bolya, Daniel and Hoffman, Judy.*
 
-  [[Paper](https://arxiv.org/pdf/2303.17604)] [Code] ![](https://github.com/dbolya/tomesd) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Token_Merging-orange)
+  [[Paper](https://arxiv.org/pdf/2303.17604)] [[Code]![](https://github.com/dbolya/tomesd)] ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Token_Merging-orange)
 
 - **[2] Deepcache: Accelerating diffusion models for free,** CVPR 2024.
   
   *Ma, Xinyin and Fang, Gongfan and Wang, Xinchao.*
 
-  [[Paper](https://arxiv.org/pdf/2312.00858)] [Code] ![](https://github.com/horseee/DeepCache) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Text2image_Generation-green) ![](https://img.shields.io/badge/Cache_Mechanism-orange)
+  [[Paper](https://arxiv.org/pdf/2312.00858)] [[Code]![](https://github.com/horseee/DeepCache)] ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Text2image_Generation-green) ![](https://img.shields.io/badge/Cache_Mechanism-orange)
 
 
 
