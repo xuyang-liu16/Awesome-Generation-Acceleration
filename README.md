@@ -2,14 +2,14 @@
 
 :loudspeaker: Collection of awesome diffusion acceleration resources.
 
-**Outline**
+## Outline
 
 - [Awesome-Diffusion-Acceleration](# Awesome-Diffusion-Acceleration)
-  - [Pruning-based Diffusion Acceleration](## Pruning-based Diffusion Acceleration)
-  - [Quantization-based Diffusion Acceleration](## Quantization-based Diffusion Acceleration)
-  - [Distillation-based Diffusion Acceleration](##Distillation-based Diffusion Acceleration)
-  - [Cache-based Diffusion Acceleration](##Cache-based Diffusion Acceleration)
-  - [Training-free Diffusion Acceleration](## Training-free Diffusion Acceleration)
+  - [Pruning-based Diffusion Acceleration](# Pruning-based Diffusion Acceleration)
+  - [Quantization-based Diffusion Acceleration](# Quantization-based Diffusion Acceleration)
+  - [Distillation-based Diffusion Acceleration](# Distillation-based Diffusion Acceleration)
+  - [Cache-based Diffusion Acceleration](# Cache-based Diffusion Acceleration)
+  - [Training-free Diffusion Acceleration](# Training-free Diffusion Acceleration)
 
 
 ## Pruning-based Diffusion Acceleration
