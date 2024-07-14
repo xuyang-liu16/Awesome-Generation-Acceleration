@@ -37,7 +37,21 @@
 
   [[Paper](https://arxiv.org/pdf/2404.11098)] [Code] ![](https://img.shields.io/badge/LAPTOP_Diff-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Layer_Pruning-orange)
 
+
 ## Quantization-based Diffusion Acceleration
+
+- **[1] Post-training Quantization on Diffusion Models**, CVPR 2023.
+  
+  *Shang, Yuzhang and Yuan, Zhihang and Xie, Bin and Wu, Bingzhe and Yan, Yan.*
+
+  [[Paper](https://arxiv.org/pdf/2211.15736)] [[Code](https://github.com/42Shawn/PTQ4DM)] ![](https://img.shields.io/badge/PTQ4DM-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Post_training_Quantization-orange)
+
+- **[2] Temporal Dynamic Quantization for Diffusion Models**, NeurIPS 2023.
+  
+  *So, Junhyuk and Lee, Jungwon and Ahn, Daehyun and Kim, Hyungjun and Park, Eunhyeok.*
+
+  [[Paper](https://arxiv.org/pdf/2306.02316)] [Code] ![](https://img.shields.io/badge/TDQ-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Post_training_Quantization-orange)
+
 
 ## Distillation-based Diffusion Acceleration
   
@@ -79,6 +93,12 @@
   *Selvaraju, Pratheba and Ding, Tianyu and Chen, Tianyi and Zharkov, Ilya and Liang, Luming.*
 
   [[Paper](https://arxiv.org/pdf/2407.01425)] [[Code](https://github.com/prathebaselva/FORA)] ![](https://img.shields.io/badge/FORA-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Cache_Mechanism-orange)
+
+- **[5] Learning-to-Cache: Accelerating Diffusion Transformer via Layer Caching**, arXiv 2024.
+  
+  *Ma, Xinyin and Fang, Gongfan and Mi, Michael Bi and Wang, Xinchao.*
+
+  [[Paper](https://arxiv.org/pdf/2406.01733)] [Code] ![](https://img.shields.io/badge/L2C-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Cache_Mechanism-orange)
 
 
 ## Training-free Diffusion Acceleration
