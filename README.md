@@ -2,6 +2,61 @@
 
 :loudspeaker: Collection of awesome diffusion acceleration resources.
 
+**Outline**
+
+- [Awesome-Diffusion-Acceleration](# Awesome-Diffusion-Acceleration)
+  - [Pruning-based Diffusion Acceleration](## Pruning-based Diffusion Acceleration)
+  - [Quantization-based Diffusion Acceleration](## Quantization-based Diffusion Acceleration)
+  - [Distillation-based Diffusion Acceleration](##Distillation-based Diffusion Acceleration)
+  - [Cache-based Diffusion Acceleration](##Cache-based Diffusion Acceleration)
+  - [Training-free Diffusion Acceleration](## Training-free Diffusion Acceleration)
+
+
+## Pruning-based Diffusion Acceleration
+- **[1] Token Merging for Fast Stable Diffusion**, CVPRW 2023.
+  
+  *Bolya, Daniel and Hoffman, Judy.*
+
+  [[Paper](https://arxiv.org/pdf/2303.17604)] [[Code](https://github.com/dbolya/tomesd)] ![](https://img.shields.io/badge/ToMe-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Token_Merging-orange)
+
+- **[2] Structural Pruning for Diffusion Models**, NeurIPS 2023.
+  
+  *Fang, Gongfan and Ma, Xinyin and Wang, Xinchao.*
+
+  [[Paper](https://arxiv.org/pdf/2305.10924)] [[Code](https://github.com/VainF/Diff-Pruning)] ![](https://img.shields.io/badge/Diff_Pruning-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Timestep_Pruning-orange)
+
+- **[3] Attention-Driven Training-Free Efficiency Enhancement of Diffusion Models**, CVPR 2024.
+  
+  *Wang, Hongjie and Liu, Difan and Kang, Yan and Li, Yijun and Lin, Zhe and Jha, Niraj K and Liu, Yuchen.*
+
+  [[Paper](https://arxiv.org/pdf/2405.05252)] [Code] ![](https://img.shields.io/badge/AT_EDM-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Token_Pruning-orange)
+
+- **[4] LAPTOP-Diff: Layer Pruning and Normalized Distillation for Compressing Diffusion Models**, arXiv 2024.
+  
+  *Zhang, Dingkun and Li, Sijia and Chen, Chen and Xie, Qingsong and Lu, Haonan.*
+
+  [[Paper](https://arxiv.org/pdf/2404.11098)] [Code] ![](https://img.shields.io/badge/LAPTOP_Diff-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Layer_Pruning-orange)
+
+## Quantization-based Diffusion Acceleration
+
+## Distillation-based Diffusion Acceleration
+
+## Cache-based Diffusion Acceleration
+
+- **[1] Faster Diffusion: Rethinking the Role of UNet Encoder in Diffusion Models**, arXiv 2023.
+  
+  *Li, Senmao and Hu, Taihang and Khan, Fahad Shahbaz and Li, Linxuan and Yang, Shiqi and Wang, Yaxing and Cheng, Ming-Ming and Yang, Jian.*
+
+  [[Paper](https://arxiv.org/pdf/2312.09608)] [[Code](https://github.com/hutaiHang/Faster-Diffusion)] ![](https://img.shields.io/badge/Faster_Diffusion-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Personalized_Generation-green) ![](https://img.shields.io/badge/Text2Video-green) ![](https://img.shields.io/badge/Cache_Mechanism-orange)
+
+
+- **[2] DeepCache: Accelerating Diffusion Models for Free**, CVPR 2024.
+  
+  *Ma, Xinyin and Fang, Gongfan and Wang, Xinchao.*
+
+  [[Paper](https://arxiv.org/pdf/2312.00858)] [[Code](https://github.com/horseee/DeepCache)] ![](https://img.shields.io/badge/DeepCache-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Cache_Mechanism-orange)
+
+
 ## Training-free Diffusion Acceleration
 
 ### :pushpin: Training-free Stable Diffusion Acceleration
