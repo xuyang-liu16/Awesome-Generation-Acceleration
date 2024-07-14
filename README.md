@@ -1,11 +1,10 @@
 # Awesome-Diffusion-Acceleration [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-
-Collection of awesome diffusion acceleration resources.
+:loudspeaker: Collection of awesome diffusion acceleration resources.
 
 ## Training-free Diffusion Acceleration
 
-### Training-free Stable Diffusion Acceleration
+### :pushpin: Training-free Stable Diffusion Acceleration
 Base modals: [Stable Diffusion](https://github.com/CompVis/stable-diffusion), [Stable Video Diffusion](https://github.com/Stability-AI/generative-models) and [Text2Video-Zero](https://github.com/Picsart-AI-Research/Text2Video-Zero).
 - **[1] Token Merging for Fast Stable Diffusion**, CVPRW 2023.
   
@@ -41,7 +40,7 @@ Base modals: [Stable Diffusion](https://github.com/CompVis/stable-diffusion), [S
 
 
 
-### Training-free Diffusion Transformer Acceleration
+### :pushpin: Training-free Diffusion Transformer Acceleration
 Base modals: [DiT-XL](https://github.com/facebookresearch/DiT) and [PIXART-α](https://github.com/PixArt-alpha/PixArt-alpha).
 - **[1] ∆-DiT: A Training-Free Acceleration Method Tailored for Diffusion Transformers**, arXiv 2024.
   
@@ -54,3 +53,6 @@ Base modals: [DiT-XL](https://github.com/facebookresearch/DiT) and [PIXART-α](h
   *Selvaraju, Pratheba and Ding, Tianyu and Chen, Tianyi and Zharkov, Ilya and Liang, Luming.*
 
   [[Paper](https://arxiv.org/pdf/2407.01425)] [[Code](https://github.com/prathebaselva/FORA)] ![](https://img.shields.io/badge/FORA-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Cache_Mechanism-orange)
+
+## Contact
+:mailbox: For any question, please contact [Xuyang Liu](mailto:liuxuyang@stu.scu.edu.cn).
