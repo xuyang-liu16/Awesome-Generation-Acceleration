@@ -4,12 +4,12 @@
 
 ## Outline
 
-- [Awesome-Diffusion-Acceleration](# Awesome-Diffusion-Acceleration)
-  - [Pruning-based Diffusion Acceleration](# Pruning-based Diffusion Acceleration)
-  - [Quantization-based Diffusion Acceleration](# Quantization-based Diffusion Acceleration)
-  - [Distillation-based Diffusion Acceleration](# Distillation-based Diffusion Acceleration)
-  - [Cache-based Diffusion Acceleration](# Cache-based Diffusion Acceleration)
-  - [Training-free Diffusion Acceleration](# Training-free Diffusion Acceleration)
+- [Awesome-Diffusion-Acceleration](#awesome-diffusion-acceleration)
+  - [Pruning-based Diffusion Acceleration](#pruning-based-diffusion-acceleration)
+  - [Quantization-based Diffusion Acceleration](#quantization-based-diffusion-acceleration)
+  - [Distillation-based Diffusion Acceleration](#distillation-based-diffusion-acceleration)
+  - [Cache-based Diffusion Acceleration](#cache-based-diffusion-acceleration)
+  - [Training-free Diffusion Acceleration](#training-free-diffusion-acceleration)
 
 
 ## Pruning-based Diffusion Acceleration
