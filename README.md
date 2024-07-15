@@ -5,14 +5,25 @@
 ## Outline
 
 - [Awesome-Diffusion-Acceleration](#awesome-diffusion-acceleration)
-  - [Pruning-based Diffusion Acceleration](#pruning-based-diffusion-acceleration)
-  - [Quantization-based Diffusion Acceleration](#quantization-based-diffusion-acceleration)
-  - [Distillation-based Diffusion Acceleration](#distillation-based-diffusion-acceleration)
-  - [Cache-based Diffusion Acceleration](#cache-based-diffusion-acceleration)
+  - [Sampling Solver](#sampling-solver)
+  - [Pruning](#pruning)
+  - [Quantization](#quantization)
+  - [Distillation](#distillation)
+  - [Cachec Mechanism](#cache-mechanism)
   - [Training-free Diffusion Acceleration](#training-free-diffusion-acceleration)
 
 
-## Pruning-based Diffusion Acceleration
+## Sampling Solver
+
+- **[1] Denoising Diffusion Implicit Models**, ICLR 2021.
+  
+  *Song, Jiaming and Meng, Chenlin and Ermon, Stefano.*
+
+  [[Paper](https://arxiv.org/pdf/2010.02502)] [[Code](https://github.com/ermongroup/ddim)] ![](https://img.shields.io/badge/DDIM-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/-orange)
+  
+
+## Pruning
+
 - **[1] Token Merging for Fast Stable Diffusion**, CVPRW 2023.
   
   *Bolya, Daniel and Hoffman, Judy.*
@@ -37,8 +48,14 @@
 
   [[Paper](https://arxiv.org/pdf/2404.11098)] [Code] ![](https://img.shields.io/badge/LAPTOP_Diff-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Layer_Pruning-orange)
 
+- **[5] SparseDM: Toward Sparse Efficient Diffusion Models**, arXiv 2024.
+  
+  *Wang, Kafeng and Chen, Jianfei and Li, He and Mi, Zhenpeng and Zhu, Jun.*
 
-## Quantization-based Diffusion Acceleration
+  [[Paper](https://arxiv.org/pdf/2404.10445)] [Code] ![](https://img.shields.io/badge/SparseDM-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Sparse_Finetuning-orange)
+
+
+## Quantization
 
 - **[1] Post-training Quantization on Diffusion Models**, CVPR 2023.
   
@@ -50,10 +67,10 @@
   
   *So, Junhyuk and Lee, Jungwon and Ahn, Daehyun and Kim, Hyungjun and Park, Eunhyeok.*
 
-  [[Paper](https://arxiv.org/pdf/2306.02316)] [Code] ![](https://img.shields.io/badge/TDQ-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Post_training_Quantization-orange)
+  [[Paper](https://arxiv.org/pdf/2306.02316)] [Code] ![](https://img.shields.io/badge/TDQ-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Post_training_Quantization-orange) ![](https://img.shields.io/badge/Quantization_aware_Training-orange)
 
 
-## Distillation-based Diffusion Acceleration
+## Distillation
   
 - **[1] SnapFusion: Text-to-Image Diffusion Model on Mobile Devices within Two Seconds**, NeurIPS 2023.
   
@@ -66,8 +83,9 @@
   *Kim, Bo-Kyeong and Song, Hyoung-Kyu and Castells, Thibault and Choi, Shinkook.*
 
   [[Paper](https://arxiv.org/pdf/2305.15798)] [[Code](https://github.com/Nota-NetsPresso/BK-SDM)] ![](https://img.shields.io/badge/BK_SDM-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Distillation_Pretraining-orange)
+
   
-## Cache-based Diffusion Acceleration
+## Cachec Mechanism
 
 - **[1] Faster Diffusion: Rethinking the Role of UNet Encoder in Diffusion Models**, arXiv 2023.
   
