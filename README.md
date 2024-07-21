@@ -9,7 +9,7 @@
   - [Pruning](#pruning)
   - [Quantization](#quantization)
   - [Distillation](#distillation)
-  - [Cachec Mechanism](#cache-mechanism)
+  - [Cache Mechanism](#cache-mechanism)
 - [Training-free Diffusion Acceleration](#training-free-diffusion-acceleration)
 
 
@@ -105,7 +105,7 @@
   [[Paper](https://arxiv.org/pdf/2305.15798)] [[Code](https://github.com/Nota-NetsPresso/BK-SDM)] ![](https://img.shields.io/badge/BK_SDM-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Distillation_Pretraining-orange)
 
   
-## Cachec Mechanism
+## Cache Mechanism
 
 - **[1] Faster Diffusion: Rethinking the Role of UNet Encoder in Diffusion Models**, arXiv 2023.
   
