@@ -10,6 +10,7 @@
   - [Quantization](#quantization)
   - [Distillation](#distillation)
   - [Cache Mechanism](#cache-mechanism)
+  - [Others](#others)
 - [Training-free Diffusion Acceleration](#training-free-diffusion-acceleration)
 
 
@@ -74,7 +75,7 @@
   
   *Shang, Yuzhang and Yuan, Zhihang and Xie, Bin and Wu, Bingzhe and Yan, Yan.*
 
-  [[Paper](https://arxiv.org/pdf/2211.15736)] [[Code](https://github.com/42Shawn/PTQ4DM)] ![](https://img.shields.io/badge/PTQ4DM-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Post_training_Quantization-orange)
+  [[Paper](https://arxiv.org/pdf/2211.15736)] [[Code](https://github.com/42Shawn/PTQ4DM)] ![](https://img.shields.io/badge/PTQ4DM-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Quantization_aware_Training-orange)
 
 - **[2] Temporal Dynamic Quantization for Diffusion Models**, NeurIPS 2023.
   
@@ -86,7 +87,7 @@
   
   *Tian, Shilong and Chen, Hong and Lv, Chengtao and Liu, Yu and Guo, Jinyang and Liu, Xianglong and Li, Shengxi and Yang, Hao and Xie, Tao.*
 
-  [[Paper](https://arxiv.org/pdf/2407.11585)] [Code] ![](https://img.shields.io/badge/TDQ-blue) ![](https://img.shields.io/badge/Video_Generation-green) ![](https://img.shields.io/badge/Post_training_Quantization-orange) 
+  [[Paper](https://arxiv.org/pdf/2407.11585)] [Code] ![](https://img.shields.io/badge/TDQ-blue) ![](https://img.shields.io/badge/Video_Generation-green) ![](https://img.shields.io/badge/Post_training_Quantization-orange)
 
 
 
@@ -137,6 +138,16 @@
   *Ma, Xinyin and Fang, Gongfan and Mi, Michael Bi and Wang, Xinchao.*
 
   [[Paper](https://arxiv.org/pdf/2406.01733)] [Code] ![](https://img.shields.io/badge/L2C-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Cache_Mechanism-orange)
+
+  
+## Others
+
+- **[1] Efficient Diffusion Transformer with Step-wise Dynamic Attention Mediators**, ECCV 2024.
+
+  *Yifan Pu and Zhuofan Xia and Jiayi Guo and Dongchen Han and Qixiu Li and Duo Li and Yuhui Yuan and Ji Li and Yizeng Han and Shiji Song and Gao Huang and Xiu Li.*
+
+  [[Paper](https://arxiv.org/pdf/2408.05710)] [[Code](https://github.com/LeapLabTHU/Attention-Mediators)] ![](https://img.shields.io/badge/Attention_Mediators-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Model_Optimization-orange)
+
 
 
 ## Training-free Diffusion Acceleration
