@@ -211,6 +211,13 @@ Base modals: [Stable Diffusion](https://github.com/CompVis/stable-diffusion), [S
 
   [[Paper](https://arxiv.org/pdf/2405.05252)] [Code] ![](https://img.shields.io/badge/AT_EDM-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
+- **[9] PFDiff: Training-free Acceleration of Diffusion Models through the Gradient Guidance of Past and Future**, arXiv 2024.
+  
+  *Guangyi Wang and Yuren Cai and Lijiang Li and Wei Peng and Songzhi Su.*
+
+  [[Paper](https://arxiv.org/pdf/2408.08822)] [Code] ![](https://img.shields.io/badge/PFDiff-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Sampling_Solver-orange)
+
+  
 
 
 ### :pushpin: Training-free Diffusion Transformer Acceleration
