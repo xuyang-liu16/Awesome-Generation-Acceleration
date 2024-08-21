@@ -10,6 +10,7 @@
   - [Quantization](#quantization)
   - [Distillation](#distillation)
   - [Cache Mechanism](#cache-mechanism)
+  - [Deployment](#deployment)
   - [Others](#others)
 - [Training-free Diffusion Acceleration](#training-free-diffusion-acceleration)
 
@@ -138,6 +139,14 @@
   *Ma, Xinyin and Fang, Gongfan and Mi, Michael Bi and Wang, Xinchao.*
 
   [[Paper](https://arxiv.org/pdf/2406.01733)] [Code] ![](https://img.shields.io/badge/L2C-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Cache_Mechanism-orange)
+
+
+## Deployment
+- **[1] AsyncDiff: Parallelizing Diffusion Models by Asynchronous Denoising**, arXiv 2024.
+
+  *Chen, Zigeng and Ma, Xinyin and Fang, Gongfan and Tan, Zhenxiong and Wang, Xinchao.*
+
+  [[Paper](https://arxiv.org/pdf/2406.06911)] [[Code](https://github.com/czg1225/AsyncDiff)] ![](https://img.shields.io/badge/AsyncDiff-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Deployment_Optimization-orange)
 
   
 ## Others
