@@ -10,7 +10,7 @@
   - [Quantization](#quantization)
   - [Distillation](#distillation)
   - [Cache Mechanism](#cache-mechanism)
-  - [Deployment_Optimization](#deployment-optimization)
+  - [Deployment Optimization](#deployment-optimization)
   - [Others](#others)
 - [Training-free Diffusion Acceleration](#training-free-diffusion-acceleration)
 
