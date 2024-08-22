@@ -10,7 +10,7 @@
   - [Quantization](#quantization)
   - [Distillation](#distillation)
   - [Cache Mechanism](#cache-mechanism)
-  - [Deployment](#deployment)
+  - [Deployment_Optimization](#deployment-optimization)
   - [Others](#others)
 - [Training-free Diffusion Acceleration](#training-free-diffusion-acceleration)
 
@@ -141,7 +141,7 @@
   [[Paper](https://arxiv.org/pdf/2406.01733)] [Code] ![](https://img.shields.io/badge/L2C-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Cache_Mechanism-orange)
 
 
-## Deployment
+## Deployment Optimization
 - **[1] AsyncDiff: Parallelizing Diffusion Models by Asynchronous Denoising**, arXiv 2024.
 
   *Chen, Zigeng and Ma, Xinyin and Fang, Gongfan and Tan, Zhenxiong and Wang, Xinchao.*
