@@ -142,7 +142,22 @@
 
 
 ## Deployment Optimization
-- **[1] AsyncDiff: Parallelizing Diffusion Models by Asynchronous Denoising**, arXiv 2024.
+
+- **[1] DistriFusion: Distributed Parallel Inference for High-Resolution Diffusion Models**, arXiv 2024.
+
+  *Li, Muyang and Cai, Tianle and Cao, Jiaxin and Zhang, Qinsheng and Cai, Han and Bai, Junjie and Jia, Yangqing and Li, Kai and Han, Song.*
+
+  [[Paper](https://arxiv.org/pdf/2402.19481)] [[Code](https://github.com/mit-han-lab/distrifuser)] ![](https://img.shields.io/badge/DistriFusion-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Deployment_Optimization-orange)
+  
+
+- **[2] PipeFusion: Displaced Patch Pipeline Parallelism for Inference of Diffusion Transformer Models**, arXiv 2024.
+
+  *Wang, Jiannan and Fang, Jiarui and Li, Aoyu and Yang, PengCheng.*
+
+  [[Paper](https://arxiv.org/pdf/2405.14430)] [[Code](https://github.com/PipeFusion/PipeFusion)] ![](https://img.shields.io/badge/PipeFusion-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Deployment_Optimization-orange)
+  
+
+- **[3] AsyncDiff: Parallelizing Diffusion Models by Asynchronous Denoising**, arXiv 2024.
 
   *Chen, Zigeng and Ma, Xinyin and Fang, Gongfan and Tan, Zhenxiong and Wang, Xinchao.*
 
