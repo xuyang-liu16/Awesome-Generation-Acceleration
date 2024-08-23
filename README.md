@@ -143,7 +143,7 @@
 
 ## Deployment Optimization
 
-- **[1] DistriFusion: Distributed Parallel Inference for High-Resolution Diffusion Models**, arXiv 2024.
+- **[1] DistriFusion: Distributed Parallel Inference for High-Resolution Diffusion Models**, CVPR 2024 Highlight.
 
   *Li, Muyang and Cai, Tianle and Cao, Jiaxin and Zhang, Qinsheng and Cai, Han and Bai, Junjie and Jia, Yangqing and Li, Kai and Han, Song.*
 
