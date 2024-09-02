@@ -1,11 +1,12 @@
 <div align=center>
 
-# Awesome Diffusion Acceleration
+# 𝙰𝚠𝚎𝚜𝚘𝚖𝚎 𝙳𝚒𝚏𝚏𝚞𝚜𝚒𝚘𝚗 𝙰𝚌𝚌𝚎𝚕𝚎𝚛𝚊𝚝𝚒𝚘𝚗
 <p>
 
-[![Awesome](https://img.shields.io/badge/Awesome-yes-blue?style=plastic)](https://github.com/sindresorhus/awesome)
-[![Maintenance](https://img.shields.io/badge/Maintenance-Yes-green?style=plastic)](https://github.com/Naereen/StrapDown.js/graphs/commit-activity)
-[![Last Commit](https://img.shields.io/github/last-commit/xuyang-liu16/Awesome-Diffusion-Acceleration?style=plastic&color=orange)](https://github.com/xuyang-liu16/Awesome-Diffusion-Acceleration)
+
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![Maintenance](https://img.shields.io/badge/maintained%3F-yes-green.svg)](https://github.com/Naereen/StrapDown.js/graphs/commit-activity)
+[![Last Commit](https://img.shields.io/github/last-commit/xuyang-liu16/Awesome-Diffusion-Acceleration.svg?style=flat&color=orange)](https://github.com/xuyang-liu16/Awesome-Diffusion-Acceleration)
 
 </p>
 
