@@ -90,6 +90,12 @@
 
   [[Paper](https://arxiv.org/pdf/2407.11585)] [Code] ![](https://img.shields.io/badge/TDQ-blue) ![](https://img.shields.io/badge/Video_Generation-green) ![](https://img.shields.io/badge/Post_training_Quantization-orange)
 
+- **[4] VQ4DiT: Efficient Post-Training Vector Quantization for Diffusion Transformers**, arXiv 2024.
+
+  *Deng, Juncan and Li, Shuaiting and Wang, Zeyu and Gu, Hong and Xu, Kedong and Huang, Kejie.*
+
+  [[Paper](https://arxiv.org/pdf/2408.17131)] [Code] ![](https://img.shields.io/badge/VQ4DiT-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Post_training_Quantization-orange)
+
 
 
 ## Distillation
@@ -268,7 +274,7 @@ Base modals: [DiT-XL](https://github.com/facebookresearch/DiT) and [PIXART-α](h
 
   *Deng, Juncan and Li, Shuaiting and Wang, Zeyu and Gu, Hong and Xu, Kedong and Huang, Kejie.*
 
-  [[Paper](https://arxiv.org/pdf/2408.17131)] [Code] ![](https://img.shields.io/badge/VQ4DiT-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Post_Training_Quantization-orange)
+  [[Paper](https://arxiv.org/pdf/2408.17131)] [Code] ![](https://img.shields.io/badge/VQ4DiT-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Post_training_Quantization-orange)
 
 
 ## Contact
