@@ -3,8 +3,10 @@
 # Awesome Diffusion Acceleration
 <p>
 
- [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
- [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+[![Awesome](https://img.shields.io/badge/Awesome-yes-blue?style=plastic)](https://github.com/sindresorhus/awesome)
+[![Maintenance](https://img.shields.io/badge/Maintenance-Yes-green?style=plastic)](https://github.com/Naereen/StrapDown.js/graphs/commit-activity)
+[![Last Commit](https://img.shields.io/github/last-commit/xuyang-liu16/Awesome-Diffusion-Acceleration?style=plastic&color=orange)](https://github.com/xuyang-liu16/Awesome-Diffusion-Acceleration)
+
 </p>
 
 
