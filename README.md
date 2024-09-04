@@ -256,14 +256,18 @@ Base modals: [Stable Diffusion](https://github.com/CompVis/stable-diffusion), [S
 
   [[Paper](https://arxiv.org/pdf/2405.05252)] [Code] ![](https://img.shields.io/badge/AT_EDM-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
-- **[9] PFDiff: Training-free Acceleration of Diffusion Models through the Gradient Guidance of Past and Future**, arXiv 2024.
+- **[10] PFDiff: Training-free Acceleration of Diffusion Models through the Gradient Guidance of Past and Future**, arXiv 2024.
   
   *Guangyi Wang and Yuren Cai and Lijiang Li and Wei Peng and Songzhi Su.*
 
   [[Paper](https://arxiv.org/pdf/2408.08822)] [Code] ![](https://img.shields.io/badge/PFDiff-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Sampling_Solver-orange)
 
+- **[11] Token Fusion: Bridging the Gap between Token Pruning and Token Merging**, WACV 2024.
   
+  *Kim, Minchul and Gao, Shangqian and Hsu, Yen-Chang and Shen, Yilin and Jin, Hongxia.*
 
+  [[Paper](https://arxiv.org/pdf/2312.01026)] [Code] ![](https://img.shields.io/badge/ToFu-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Token_Compression-orange)
+  
 
 ### :pushpin: Training-free Diffusion Transformer Acceleration
 Base modals: [DiT-XL](https://github.com/facebookresearch/DiT) and [PIXART-α](https://github.com/PixArt-alpha/PixArt-alpha).
