@@ -11,11 +11,12 @@
 
 </p>
 
+:loudspeaker: 𝙲𝚘𝚕𝚕𝚎𝚌𝚝𝚒𝚘𝚗 𝚘𝚏 𝙰𝚠𝚎𝚜𝚘𝚖𝚎 𝙳𝚒𝚏𝚏𝚞𝚜𝚒𝚘𝚗 𝙰𝚌𝚌𝚎𝚕𝚎𝚛𝚊𝚝𝚒𝚘𝚗 𝚁𝚎𝚜𝚘𝚞𝚛𝚌𝚎𝚜.
 
 </div>
 
 
-:loudspeaker: Collection of awesome diffusion acceleration resources.
+
 
 ## Outline
 
