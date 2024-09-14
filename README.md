@@ -296,7 +296,7 @@ Base modals: [DiT-XL](https://github.com/facebookresearch/DiT) for Image Generat
 
   [[Paper](https://arxiv.org/pdf/2408.17131)] [Code] ![](https://img.shields.io/badge/VQ4DiT-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Post_training_Quantization-orange)
 
-- **[4] DiTAS: Quantizing Diffusion Transformers via Enhanced Activation Smoothing**, arXiv 2024.
+- **[5] DiTAS: Quantizing Diffusion Transformers via Enhanced Activation Smoothing**, arXiv 2024.
   
   *Dong, Zhenyuan and Zhang, Sai Qian.*、
 
