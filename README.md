@@ -271,7 +271,7 @@ Base modals: [Stable Diffusion](https://github.com/CompVis/stable-diffusion), [S
   
 
 ### :pushpin: Training-free Diffusion Transformer Acceleration
-Base modals: [DiT-XL](https://github.com/facebookresearch/DiT) and [PIXART-α](https://github.com/PixArt-alpha/PixArt-alpha).
+Base modals: [DiT-XL](https://github.com/facebookresearch/DiT) for Image Generation, [PIXART-α](https://github.com/PixArt-alpha/PixArt-alpha) for Text2Image, and [OpenSora](https://github.com/PKU-YuanGroup/Open-Sora-Plan) for Text2Video.
 - **[1] ∆-DiT: A Training-Free Acceleration Method Tailored for Diffusion Transformers**, arXiv 2024.
   
   *Chen, Pengtao and Shen, Mingzhu and Ye, Peng and Cao, Jianjian and Tu, Chongjun and Bouganis, Christos-Savvas and Zhao, Yiren and Chen, Tao.*
@@ -295,6 +295,12 @@ Base modals: [DiT-XL](https://github.com/facebookresearch/DiT) and [PIXART-α](h
   *Deng, Juncan and Li, Shuaiting and Wang, Zeyu and Gu, Hong and Xu, Kedong and Huang, Kejie.*
 
   [[Paper](https://arxiv.org/pdf/2408.17131)] [Code] ![](https://img.shields.io/badge/VQ4DiT-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Post_training_Quantization-orange)
+
+- **[4] DiTAS: Quantizing Diffusion Transformers via Enhanced Activation Smoothing**, arXiv 2024.
+  
+  *Dong, Zhenyuan and Zhang, Sai Qian.*、
+
+  [[Paper](https://arxiv.org/pdf/2409.07756)] [Code] ![](https://img.shields.io/badge/DiTAS-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Post_training_Quantization-orange)
 
 
 ## Contact
