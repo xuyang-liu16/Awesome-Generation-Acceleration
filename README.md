@@ -122,7 +122,7 @@
 
    *Chen, Lei and Meng, Yuan and Tang, Chen and Ma, Xinzhu and Jiang, Jingyan and Wang, Xin and Wang, Zhi and Zhu, Wenwu.*
 
-  [[Paper](https://arxiv.org/pdf/2406.17343)] [[Code](https://github.com/Juanerx/Q-DiT)] ![](https://img.shields.io/badge/Q-DiT-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Post_training_Quantization-orange)
+   [[Paper](https://arxiv.org/pdf/2406.17343)] [[Code](https://github.com/Juanerx/Q-DiT)] ![](https://img.shields.io/badge/Q-DiT-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Post_training_Quantization-orange)
 
 
 
