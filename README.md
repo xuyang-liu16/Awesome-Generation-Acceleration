@@ -112,6 +112,19 @@
 
   [[Paper](https://arxiv.org/pdf/2408.17131)] [Code] ![](https://img.shields.io/badge/VQ4DiT-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Post_training_Quantization-orange)
 
+- **[5] DiTAS: Quantizing Diffusion Transformers via Enhanced Activation Smoothing**, arXiv 2024.
+  
+  *Dong, Zhenyuan and Zhang, Sai Qian.*、
+
+  [[Paper](https://arxiv.org/pdf/2409.07756)] [Code] ![](https://img.shields.io/badge/DiTAS-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Post_training_Quantization-orange)
+
+ - **[6] Q-dit: Accurate post-training quantization for diffusion transformers**, arXiv 2024.
+
+   *Chen, Lei and Meng, Yuan and Tang, Chen and Ma, Xinzhu and Jiang, Jingyan and Wang, Xin and Wang, Zhi and Zhu, Wenwu.*
+
+  [[Paper](https://arxiv.org/pdf/2406.17343)] [[Code](https://github.com/Juanerx/Q-DiT)] ![](https://img.shields.io/badge/Q-DiT-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Post_training_Quantization-orange)
+
+
 
 
 ## Distillation
@@ -162,7 +175,13 @@
 
   [[Paper](https://arxiv.org/pdf/2406.01733)] [Code] ![](https://img.shields.io/badge/L2C-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Cache_Mechanism-orange)
 
+- **[6] Cache Me if You Can: Accelerating Diffusion Models through Block Caching**, CVPR 2024.
 
+  *Wimbauer, Felix and Wu, Bichen and Schoenfeld, Edgar and Dai, Xiaoliang and Hou, Ji and He, Zijian and Sanakoyeu, Artsiom and Zhang, Peizhao and Tsai, Sam and Kohler, Jonas and others.*
+
+  [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Wimbauer_Cache_Me_if_You_Can_Accelerating_Diffusion_Models_through_Block_CVPR_2024_paper.pdf)] [Code] ![](https://img.shields.io/badge/Block_Caching -blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Cache_Mechanism-orange)
+
+   
 ## Deployment Optimization
 
 - **[1] DistriFusion: Distributed Parallel Inference for High-Resolution Diffusion Models**, CVPR 2024 Highlight.
@@ -289,18 +308,6 @@ Base modals: [DiT-XL](https://github.com/facebookresearch/DiT) for Image Generat
   *Yuan, Zhihang and Lu, Pu and Zhang, Hanling and Ning, Xuefei and Zhang, Linfeng and Zhao, Tianchen and Yan, Shengen and Dai, Guohao and Wang, Yu.*
   
   [[Paper](https://arxiv.org/pdf/2406.08552)] [[Code](https://github.com/thu-nics/DiTFastAttn)] ![](https://img.shields.io/badge/DiTFastAttn-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Text2Video-green) ![](https://img.shields.io/badge/Post_training_Compression-orange)
-
-- **[4] VQ4DiT: Efficient Post-Training Vector Quantization for Diffusion Transformers**, arXiv 2024.
-
-  *Deng, Juncan and Li, Shuaiting and Wang, Zeyu and Gu, Hong and Xu, Kedong and Huang, Kejie.*
-
-  [[Paper](https://arxiv.org/pdf/2408.17131)] [Code] ![](https://img.shields.io/badge/VQ4DiT-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Post_training_Quantization-orange)
-
-- **[5] DiTAS: Quantizing Diffusion Transformers via Enhanced Activation Smoothing**, arXiv 2024.
-  
-  *Dong, Zhenyuan and Zhang, Sai Qian.*、
-
-  [[Paper](https://arxiv.org/pdf/2409.07756)] [Code] ![](https://img.shields.io/badge/DiTAS-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Post_training_Quantization-orange)
 
 
 ## Contact
