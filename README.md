@@ -173,7 +173,7 @@
   
   *Ma, Xinyin and Fang, Gongfan and Mi, Michael Bi and Wang, Xinchao.*
 
-  [[Paper](https://arxiv.org/pdf/2406.01733)] [Code] ![](https://img.shields.io/badge/L2C-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Cache_Mechanism-orange)
+  [[Paper](https://arxiv.org/pdf/2406.01733)] [[Code](https://github.com/horseee/learning-to-cache)] ![](https://img.shields.io/badge/L2C-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Cache_Mechanism-orange)
 
 - **[6] Cache Me if You Can: Accelerating Diffusion Models through Block Caching**, CVPR 2024.
 
