@@ -169,7 +169,7 @@
 
   [[Paper](https://arxiv.org/pdf/2407.01425)] [[Code](https://github.com/prathebaselva/FORA)] ![](https://img.shields.io/badge/FORA-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Cache_Mechanism-orange)
 
-- **[5] Learning-to-Cache: Accelerating Diffusion Transformer via Layer Caching**, arXiv 2024.
+- **[5] Learning-to-Cache: Accelerating Diffusion Transformer via Layer Caching**, NeurIPS 2024.
   
   *Ma, Xinyin and Fang, Gongfan and Mi, Michael Bi and Wang, Xinchao.*
 
@@ -198,7 +198,7 @@
   [[Paper](https://arxiv.org/pdf/2405.14430)] [[Code](https://github.com/PipeFusion/PipeFusion)] ![](https://img.shields.io/badge/PipeFusion-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Deployment_Optimization-orange)
   
 
-- **[3] AsyncDiff: Parallelizing Diffusion Models by Asynchronous Denoising**, arXiv 2024.
+- **[3] AsyncDiff: Parallelizing Diffusion Models by Asynchronous Denoising**, NeurIPS 2024.
 
   *Chen, Zigeng and Ma, Xinyin and Fang, Gongfan and Tan, Zhenxiong and Wang, Xinchao.*
 
