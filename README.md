@@ -303,7 +303,7 @@ Base modals: [DiT-XL](https://github.com/facebookresearch/DiT) for Image Generat
 
   [[Paper](https://arxiv.org/pdf/2407.01425)] [[Code](https://github.com/prathebaselva/FORA)] ![](https://img.shields.io/badge/FORA-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Cache_Mechanism-orange)
 
-- **[3] DiTFastAttn: Attention Compression for Diffusion Transformer Models**, arXiv 2024.
+- **[3] DiTFastAttn: Attention Compression for Diffusion Transformer Models**, NeurIPS 2024.
 
   *Yuan, Zhihang and Lu, Pu and Zhang, Hanling and Ning, Xuefei and Zhang, Linfeng and Zhao, Tianchen and Yan, Shengen and Dai, Guohao and Wang, Yu.*
   
