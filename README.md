@@ -290,7 +290,7 @@ Base modals: [Stable Diffusion](https://github.com/CompVis/stable-diffusion), [S
 
 - **[12] Agent Attention: On the Integration of Softmax and Linear Attention**, ECCV 2024.
   
-- *Han, Dongchen and Ye, Tianzhu and Han, Yizeng and Xia, Zhuofan and Song, Shiji and Huang, Gao.*
+  *Han, Dongchen and Ye, Tianzhu and Han, Yizeng and Xia, Zhuofan and Song, Shiji and Huang, Gao.*
   
   [[Paper](https://arxiv.org/pdf/2312.01026)] [[Code](https://github.com/LeapLabTHU/Agent-Attention)] ![](https://img.shields.io/badge/Agent_Attention-blue) ![](https://img.shields.io/badge/Image_Generation-green)
   
