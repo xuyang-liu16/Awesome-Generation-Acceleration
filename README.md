@@ -128,18 +128,27 @@
 
 
 ## Distillation
+
+-**[1] Progressive Distillation for Fast Sampling of Diffusion Models**, ICLR 2022.
+
+  *Salimans, Tim and Ho, Jonathan.*
+
+  [[Paper](https://openreview.net/pdf?id=TIdIXIpzhoI)] [Code] ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Step_Distillation-orange)
   
-- **[1] SnapFusion: Text-to-Image Diffusion Model on Mobile Devices within Two Seconds**, NeurIPS 2023.
+- **[2] SnapFusion: Text-to-Image Diffusion Model on Mobile Devices within Two Seconds**, NeurIPS 2023.
   
   *Li, Yanyu and Wang, Huan and Jin, Qing and Hu, Ju and Chemerys, Pavlo and Fu, Yun and Wang, Yanzhi and Tulyakov, Sergey and Ren, Jian.*
 
   [[Paper](https://arxiv.org/pdf/2306.00980)] [Code] ![](https://img.shields.io/badge/SnapFusion-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Step_Distillation-orange)
 
-- **[2] BK-SDM: A Lightweight, Fast, and Cheap Version of Stable Diffusion**, ECCV 2024.
+- **[3] BK-SDM: A Lightweight, Fast, and Cheap Version of Stable Diffusion**, ECCV 2024.
   
   *Kim, Bo-Kyeong and Song, Hyoung-Kyu and Castells, Thibault and Choi, Shinkook.*
 
   [[Paper](https://arxiv.org/pdf/2305.15798)] [[Code](https://github.com/Nota-NetsPresso/BK-SDM)] ![](https://img.shields.io/badge/BK_SDM-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Distillation_Pretraining-orange)
+
+
+  
 
   
 ## Cache Mechanism
