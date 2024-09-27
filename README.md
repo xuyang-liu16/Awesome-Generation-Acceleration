@@ -16,8 +16,6 @@
 </div>
 
 
-
-
 ## Outline
 
 - [Awesome-Diffusion-Acceleration](#awesome-diffusion-acceleration)
@@ -129,11 +127,11 @@
 
 ## Distillation
 
--**[1] Progressive Distillation for Fast Sampling of Diffusion Models**, ICLR 2022.
+- **[1] Progressive Distillation for Fast Sampling of Diffusion Models**, ICLR 2022.
 
   *Salimans, Tim and Ho, Jonathan.*
 
-  [[Paper](https://openreview.net/pdf?id=TIdIXIpzhoI)] [Code] ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Step_Distillation-orange)
+  [[Paper](https://arxiv.org/pdf/2202.00512)] [Code] ![](https://img.shields.io/badge/Progressive_Distillation-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Step_Distillation-orange)
   
 - **[2] SnapFusion: Text-to-Image Diffusion Model on Mobile Devices within Two Seconds**, NeurIPS 2023.
   
