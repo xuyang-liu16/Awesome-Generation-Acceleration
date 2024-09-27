@@ -335,6 +335,15 @@ Base modals: [DiT-XL](https://github.com/facebookresearch/DiT) for Image Generat
   
   [[Paper](https://arxiv.org/pdf/2406.08552)] [[Code](https://github.com/thu-nics/DiTFastAttn)] ![](https://img.shields.io/badge/DiTFastAttn-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Text2Video-green) ![](https://img.shields.io/badge/Post_training_Compression-orange)
 
+- **[4] Real-Time Video Generation with Pyramid Attention Broadcast**, arXiv 2024.
+
+  *Xuanlei Zhao and Xiaolong Jin and Kai Wang and Yang You.*
+  
+  [[Paper](https://arxiv.org/pdf/2408.12588)] [[Code](https://github.com/NUS-HPC-AI-Lab/VideoSys)] ![](https://img.shields.io/badge/PAB-blue) ![](https://img.shields.io/badge/Video_Generation-green) ![](https://img.shields.io/badge/Attention_Optimization-orange)
+
+
+  
+
 
 ## Contact
 :mailbox: For any question, please contact [Xuyang Liu](mailto:liuxuyang@stu.scu.edu.cn).
