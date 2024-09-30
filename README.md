@@ -83,6 +83,18 @@
 
   [[Paper](https://arxiv.org/pdf/2404.10445)] [Code] ![](https://img.shields.io/badge/SparseDM-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Sparse_Finetuning-orange)
 
+- **[6] Token Fusion: Bridging the Gap between Token Pruning and Token Merging**, WACV 2024.
+  
+  *Kim, Minchul and Gao, Shangqian and Hsu, Yen-Chang and Shen, Yilin and Jin, Hongxia.*
+
+  [[Paper](https://arxiv.org/pdf/2312.01026)] [Code] ![](https://img.shields.io/badge/ToFu-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Token_Compression-orange)
+
+- **[7] Token Caching for Diffusion Transformer Acceleration**, arXiv 2024.
+
+  *Jinming Lou and Wenyang Luo and Yufan Liu and Bing Li and Xinmiao Ding and Weiming Hu and Jiajiong Cao and Yuming Li and Chenguang Ma.*
+
+  [[Paper](https://arxiv.org/pdf/2409.18523)] [Code] ![](https://img.shields.io/badge/TokenCache-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Token_Compression-orange)
+
 
 ## Quantization
 
@@ -187,6 +199,12 @@
   *Wimbauer, Felix and Wu, Bichen and Schoenfeld, Edgar and Dai, Xiaoliang and Hou, Ji and He, Zijian and Sanakoyeu, Artsiom and Zhang, Peizhao and Tsai, Sam and Kohler, Jonas and others.*
 
   [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Wimbauer_Cache_Me_if_You_Can_Accelerating_Diffusion_Models_through_Block_CVPR_2024_paper.pdf)] [Code] ![](https://img.shields.io/badge/Block_Caching-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Cache_Mechanism-orange)
+
+- **[7] Token Caching for Diffusion Transformer Acceleration**, arXiv 2024.
+
+  *Jinming Lou and Wenyang Luo and Yufan Liu and Bing Li and Xinmiao Ding and Weiming Hu and Jiajiong Cao and Yuming Li and Chenguang Ma.*
+
+  [[Paper](https://arxiv.org/pdf/2409.18523)] [Code] ![](https://img.shields.io/badge/TokenCache-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Token_Compression-orange)
 
    
 ## Deployment Optimization
