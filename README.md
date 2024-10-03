@@ -245,7 +245,7 @@
 
 ## Training-free Diffusion Acceleration
 
-### Training-free Stable Diffusion Acceleration
+### 📌 Training-free Stable Diffusion Acceleration
 Base modals: [Stable Diffusion](https://github.com/CompVis/stable-diffusion), [Stable Video Diffusion](https://github.com/Stability-AI/generative-models) and [Text2Video-Zero](https://github.com/Picsart-AI-Research/Text2Video-Zero).
 
 - **[1] Denoising Diffusion Implicit Models**, ICLR 2021.
@@ -336,7 +336,7 @@ Base modals: [Stable Diffusion](https://github.com/CompVis/stable-diffusion), [S
   
   
 
-### Training-free Diffusion Transformer Acceleration
+### 📌 Training-free Diffusion Transformer Acceleration
 Base modals: [DiT-XL](https://github.com/facebookresearch/DiT) for Image Generation, [PIXART-α](https://github.com/PixArt-alpha/PixArt-alpha) for Text2Image, [Open-Sora](https://github.com/hpcaitech/Open-Sora) and [Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan) for Text2Video.
 - **[1] ∆-DiT: A Training-Free Acceleration Method Tailored for Diffusion Transformers**, arXiv 2024.
   
@@ -363,8 +363,8 @@ Base modals: [DiT-XL](https://github.com/facebookresearch/DiT) for Image Generat
   [[Paper](https://arxiv.org/pdf/2408.12588)] [[Code](https://github.com/NUS-HPC-AI-Lab/VideoSys)] ![](https://img.shields.io/badge/PAB-blue) ![](https://img.shields.io/badge/Video_Generation-green) ![](https://img.shields.io/badge/Attention_Optimization-orange)
 
 
-### Training-free Auto-Regressive Generation Acceleration
-Base modals: [Anole](https://github.com/GAIR-NLP/anole) [Lumina-mGPT](https://github.com/Alpha-VLLM/Lumina-mGPT) for Text2Image.
+### 📌 Training-free Auto-Regressive Generation Acceleration
+Base modals: [Anole](https://github.com/GAIR-NLP/anole) and [Lumina-mGPT](https://github.com/Alpha-VLLM/Lumina-mGPT) for Text2Image.
 
 - **[1] Accelerating Auto-regressive Text-to-Image Generation with Training-free Speculative Jacobi Decoding**, arXiv 2024.
 
