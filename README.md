@@ -241,9 +241,14 @@
 
   [[Paper](https://arxiv.org/pdf/2408.05710)] [[Code](https://github.com/LeapLabTHU/Attention-Mediators)] ![](https://img.shields.io/badge/Attention_Mediators-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Model_Optimization-orange)
 
+<div align=center>
 
+# 𝚃𝚛𝚊𝚒𝚗𝚒𝚗𝚐-𝚏𝚛𝚎𝚎 𝙳𝚒𝚏𝚏𝚞𝚜𝚒𝚘𝚗 𝙰𝚌𝚌𝚎𝚕𝚎𝚛𝚊𝚝𝚒𝚘𝚗
 
-# Training-free Diffusion Acceleration
+:loudspeaker: 𝙲𝚘𝚕𝚕𝚎𝚌𝚝𝚒𝚘𝚗 𝚘𝚏 𝙰𝚠𝚎𝚜𝚘𝚖𝚎 𝚃𝚛𝚊𝚒𝚗𝚒𝚗𝚐-𝚏𝚛𝚎𝚎 𝙳𝚒𝚏𝚏𝚞𝚜𝚒𝚘𝚗 𝙰𝚌𝚌𝚎𝚕𝚎𝚛𝚊𝚝𝚒𝚘𝚗 𝚁𝚎𝚜𝚘𝚞𝚛𝚌𝚎𝚜.
+
+</div>
+
 
 ## Training-free Stable Diffusion Acceleration
 Base modals: [Stable Diffusion](https://github.com/CompVis/stable-diffusion), [Stable Video Diffusion](https://github.com/Stability-AI/generative-models) and [Text2Video-Zero](https://github.com/Picsart-AI-Research/Text2Video-Zero).
