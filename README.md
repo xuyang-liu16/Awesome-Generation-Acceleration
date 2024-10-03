@@ -367,7 +367,7 @@ Base modals: [Anole](https://github.com/GAIR-NLP/anole) [Lumina-mGPT](https://gi
 
   *Yao Teng and Han Shi and Xian Liu and Xuefei Ning and Guohao Dai and Yu Wang and Zhenguo Li and Xihui Liu.*
 
-[[Paper](https://arxiv.org/pdf/2410.01699)] [Code] ![](https://img.shields.io/badge/SJD-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Parallel_Decoding_Mechanism-orange)
+  [[Paper](https://arxiv.org/pdf/2410.01699)] [Code] ![](https://img.shields.io/badge/SJD-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Parallel_Decoding_Mechanism-orange)
 
 
 
