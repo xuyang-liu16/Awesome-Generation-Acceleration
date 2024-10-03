@@ -18,7 +18,7 @@
 
 ## Outline
 
-- [Awesome-Diffusion-Acceleration](#awesome-diffusion-acceleration)
+- Awesome-Diffusion-Acceleration
   - [Sampling Solver](#sampling-solver)
   - [Pruning](#pruning)
   - [Quantization](#quantization)
@@ -26,7 +26,7 @@
   - [Cache Mechanism](#cache-mechanism)
   - [Deployment Optimization](#deployment-optimization)
   - [Others](#others)
-- [Training-free Diffusion Acceleration](#training-free-diffusion-acceleration)
+- Training-free Diffusion Acceleration
   - [Stable Diffusion](#Training-free-Stable-Diffusion-Acceleration)
   - [Diffusion Transformer](#Training-free-Diffusion-Transformer-Acceleration)
   - [Auto-Regressive Generation](#Training-free-Auto-Regressive-Generation-Acceleration)
