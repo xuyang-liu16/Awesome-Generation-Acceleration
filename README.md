@@ -27,9 +27,9 @@
   - [Deployment Optimization](#deployment-optimization)
   - [Others](#others)
 - [Training-free Diffusion Acceleration](#training-free-diffusion-acceleration)
-  - [Stable Diffusion](#Training-free-Stable-Diffusion-Acceleration)
-  - [Diffusion Transformer](#Training-free-Diffusion-Transformer-Acceleration)
-  - [Auto-Regressive Generation](#Training-free-Auto-Regressive-Generation-Acceleration)
+  - [Stable Diffusion](#📌-Training-free-Stable-Diffusion-Acceleration)
+  - [Diffusion Transformer](#📌-Training-free-Diffusion-Transformer-Acceleration)
+  - [Auto-Regressive Generation](#📌-Training-free-Auto-Regressive-Generation-Acceleration)
 
 
 ## Sampling Solver
