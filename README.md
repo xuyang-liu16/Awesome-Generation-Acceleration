@@ -360,6 +360,17 @@ Base modals: [DiT-XL](https://github.com/facebookresearch/DiT) for Image Generat
   [[Paper](https://arxiv.org/pdf/2408.12588)] [[Code](https://github.com/NUS-HPC-AI-Lab/VideoSys)] ![](https://img.shields.io/badge/PAB-blue) ![](https://img.shields.io/badge/Video_Generation-green) ![](https://img.shields.io/badge/Attention_Optimization-orange)
 
 
+### :pushpin: Training-free Auto-Regressive Generation Acceleration
+Base modals: [Anole](https://github.com/GAIR-NLP/anole) [Lumina-mGPT](https://github.com/Alpha-VLLM/Lumina-mGPT) for Text2Image.
+
+- **[1] Accelerating Auto-regressive Text-to-Image Generation with Training-free Speculative Jacobi Decoding**, arXiv 2024.
+
+  *Yao Teng and Han Shi and Xian Liu and Xuefei Ning and Guohao Dai and Yu Wang and Zhenguo Li and Xihui Liu.*
+
+[[Paper](https://arxiv.org/pdf/2410.01699)] [Code] ![](https://img.shields.io/badge/SJD-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Parallel_Decoding_Mechanism-orange)
+
+
+
   
 
 
