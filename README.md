@@ -264,88 +264,68 @@
 
 ## Training-free Stable Diffusion Acceleration
 Base modals: [Stable Diffusion](https://github.com/CompVis/stable-diffusion), [Stable Video Diffusion](https://github.com/Stability-AI/generative-models) and [Text2Video-Zero](https://github.com/Picsart-AI-Research/Text2Video-Zero).
-
-- **[1] Denoising Diffusion Implicit Models**, ICLR 2021.
   
-  *Song, Jiaming and Meng, Chenlin and Ermon, Stefano.*
-
-  [[Paper](https://arxiv.org/pdf/2010.02502)] [[Code](https://github.com/ermongroup/ddim)] ![](https://img.shields.io/badge/DDIM-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Fast_Sampling-orange)
-
-- **[2] DPM-Solver: A Fast ODE Solver for Diffusion Probabilistic Model Sampling in Around 10 Steps**, NeurIPS 2022.
-  
-  *Lu, Cheng and Zhou, Yuhao and Bao, Fan and Chen, Jianfei and Li, Chongxuan and Zhu, Jun.*
-
-  [[Paper](https://arxiv.org/pdf/2206.00927)] [[Code](https://github.com/LuChengTHU/dpm-solver)] ![](https://img.shields.io/badge/DPM_Solver-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Sampling_Solver-orange)
-
-- **[3] DPM-Solver++: Fast Solver for Guided Sampling of Diffusion Probabilistic Models**, arXiv 2022.
-  
-  *Lu, Cheng and Zhou, Yuhao and Bao, Fan and Chen, Jianfei and Li, Chongxuan and Zhu, Jun.*
-
-  [[Paper](https://arxiv.org/pdf/2211.01095)] [[Code](https://github.com/LuChengTHU/dpm-solver)] ![](https://img.shields.io/badge/DPM_Solver++-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Sampling_Solver-orange)
-  
-- **[4] Token Merging for Fast Stable Diffusion**, CVPRW 2023.
+- **[1] Token Merging for Fast Stable Diffusion**, CVPRW 2023.
   
   *Bolya, Daniel and Hoffman, Judy.*
 
   [[Paper](https://arxiv.org/pdf/2303.17604)] [[Code](https://github.com/dbolya/tomesd)] ![](https://img.shields.io/badge/ToMe-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Token_Merging-orange)
 
-- **[5] AutoDiffusion: Training-Free Optimization of Time Steps and Architectures for Automated Diffusion Model Acceleration**, ICCV 2023.
+- **[2] AutoDiffusion: Training-Free Optimization of Time Steps and Architectures for Automated Diffusion Model Acceleration**, ICCV 2023.
   
   *Li, Lijiang and Li, Huixia and Zheng, Xiawu and Wu, Jie and Xiao, Xuefeng and Wang, Rui and Zheng, Min and Pan, Xin and Chao, Fei and Ji, Rongrong.*
 
   [[Paper](https://arxiv.org/pdf/2309.10438)] [[Code](https://github.com/lilijiangg/AutoDiffusion)] ![](https://img.shields.io/badge/AutoDiffusion-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Neural_Architecture_Search-orange)
 
-- **[6] Structural Pruning for Diffusion Models**, NeurIPS 2023.
+- **[3] Structural Pruning for Diffusion Models**, NeurIPS 2023.
   
   *Fang, Gongfan and Ma, Xinyin and Wang, Xinchao.*
 
   [[Paper](https://arxiv.org/pdf/2305.10924)] [[Code](https://github.com/VainF/Diff-Pruning)] ![](https://img.shields.io/badge/Diff_Pruning-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Timestep_Pruning-orange)
 
-
-- **[7] Faster Diffusion: Rethinking the Role of UNet Encoder in Diffusion Models**, NeurIPS 2024.
+- **[4] Faster Diffusion: Rethinking the Role of UNet Encoder in Diffusion Models**, NeurIPS 2024.
   
   *Li, Senmao and Hu, Taihang and Khan, Fahad Shahbaz and Li, Linxuan and Yang, Shiqi and Wang, Yaxing and Cheng, Ming-Ming and Yang, Jian.*
 
   [[Paper](https://arxiv.org/pdf/2312.09608)] [[Code](https://github.com/hutaiHang/Faster-Diffusion)] ![](https://img.shields.io/badge/Faster_Diffusion-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Personalized_Generation-green) ![](https://img.shields.io/badge/Text2Video-green) ![](https://img.shields.io/badge/Cache_Mechanism-orange)
 
-
-- **[8] DeepCache: Accelerating Diffusion Models for Free**, CVPR 2024.
+- **[5] DeepCache: Accelerating Diffusion Models for Free**, CVPR 2024.
   
   *Ma, Xinyin and Fang, Gongfan and Wang, Xinchao.*
 
   [[Paper](https://arxiv.org/pdf/2312.00858)] [[Code](https://github.com/horseee/DeepCache)] ![](https://img.shields.io/badge/DeepCache-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Cache_Mechanism-orange)
 
-- **[9] Attention-Driven Training-Free Efficiency Enhancement of Diffusion Models**, CVPR 2024.
+- **[6] Attention-Driven Training-Free Efficiency Enhancement of Diffusion Models**, CVPR 2024.
   
   *Wang, Hongjie and Liu, Difan and Kang, Yan and Li, Yijun and Lin, Zhe and Jha, Niraj K and Liu, Yuchen.*
 
   [[Paper](https://arxiv.org/pdf/2405.05252)] [Code] ![](https://img.shields.io/badge/AT_EDM-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
-- **[10] PFDiff: Training-free Acceleration of Diffusion Models through the Gradient Guidance of Past and Future**, arXiv 2024.
+- **[7] PFDiff: Training-free Acceleration of Diffusion Models through the Gradient Guidance of Past and Future**, arXiv 2024.
   
   *Guangyi Wang and Yuren Cai and Lijiang Li and Wei Peng and Songzhi Su.*
 
   [[Paper](https://arxiv.org/pdf/2408.08822)] [Code] ![](https://img.shields.io/badge/PFDiff-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Sampling_Solver-orange)
 
-- **[11] Token Fusion: Bridging the Gap between Token Pruning and Token Merging**, WACV 2024.
+- **[8] Token Fusion: Bridging the Gap between Token Pruning and Token Merging**, WACV 2024.
   
   *Kim, Minchul and Gao, Shangqian and Hsu, Yen-Chang and Shen, Yilin and Jin, Hongxia.*
 
   [[Paper](https://arxiv.org/pdf/2312.01026)] [Code] ![](https://img.shields.io/badge/ToFu-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Token_Compression-orange)
 
-- **[12] Agent Attention: On the Integration of Softmax and Linear Attention**, ECCV 2024.
+- **[9] Agent Attention: On the Integration of Softmax and Linear Attention**, ECCV 2024.
   
   *Han, Dongchen and Ye, Tianzhu and Han, Yizeng and Xia, Zhuofan and Song, Shiji and Huang, Gao.*
   
   [[Paper](https://arxiv.org/pdf/2312.01026)] [[Code](https://github.com/LeapLabTHU/Agent-Attention)] ![](https://img.shields.io/badge/Agent_Attention-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Linear_Attention-orange)
 
-- **[13] T-GATE: Temporally Gating Attention to Accelerate Diffusion Model for Free!**, arXiv 2024.
+- **[10] T-GATE: Temporally Gating Attention to Accelerate Diffusion Model for Free!**, arXiv 2024.
 
   *Zhang, Wentian and Liu, Haozhe and Xie, Jinheng and Faccio, Francesco and Shou, Mike Zheng and Schmidhuber, J{\"u}rgen.*
 
   [[Paper](https://arxiv.org/pdf/2404.02747v1)] [[Code](https://github.com/HaozheLiu-ST/T-GATE)] ![](https://img.shields.io/badge/T_GATE-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Cache_Mechanism-orange)
 
-- **[14] Faster Diffusion via Temporal Attention Decomposition**, arXiv 2024.
+- **[11] Faster Diffusion via Temporal Attention Decomposition**, arXiv 2024.
 
   *Liu, Haozhe and Zhang, Wentian and Xie, Jinheng and Faccio, Francesco and Xu, Mengmeng and Xiang, Tao and Shou, Mike Zheng and Perez-Rua, Juan-Manuel and Schmidhuber, J{\"u}rgen}.*
 
