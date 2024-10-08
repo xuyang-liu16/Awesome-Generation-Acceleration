@@ -167,6 +167,11 @@
 
   [[Paper](https://arxiv.org/pdf/2305.15798)] [[Code](https://github.com/Nota-NetsPresso/BK-SDM)] ![](https://img.shields.io/badge/BK_SDM-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Distillation_Pretraining-orange)
 
+- **[4] Accelerating Diffusion Models with One-to-Many Knowledge Distillation**, arXiv 2024.
+  
+  *Linfeng Zhang and Kaisheng Ma.*
+
+  [[Paper](https://arxiv.org/pdf/2410.04191)] [Code] ![](https://img.shields.io/badge/O2MKD-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/New_Distillation_Paradigm-orange)
 
   
 
