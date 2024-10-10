@@ -359,6 +359,11 @@ Base modals: [DiT-XL](https://github.com/facebookresearch/DiT) for Image Generat
   
   [[Paper](https://arxiv.org/pdf/2408.12588)] [[Code](https://github.com/NUS-HPC-AI-Lab/VideoSys)] ![](https://img.shields.io/badge/PAB-blue) ![](https://img.shields.io/badge/Video_Generation-green) ![](https://img.shields.io/badge/Attention_Optimization-orange)
 
+- **[5] Accelerating Diffusion Transformers with Token-wise Feature Caching**, arXiv 2024.
+
+  *Chang Zou and Xuyang Liu and Ting Liu and Siteng Huang and Linfeng Zhang.*
+  
+  [[Paper](https://arxiv.org/pdf/2410.05317)] [[Code](https://github.com/Shenyi-Z/ToCa)] ![](https://img.shields.io/badge/ToCa-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Text2Video-green) ![](https://img.shields.io/badge/Cache_Mechanism-orange)
 
 ##  Training-free Auto-Regressive Generation Acceleration
 Base modals: [Anole](https://github.com/GAIR-NLP/anole) and [Lumina-mGPT](https://github.com/Alpha-VLLM/Lumina-mGPT) for Text2Image.
