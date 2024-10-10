@@ -39,11 +39,7 @@
   - [Auto-Regressive Generation](#Training-free-Auto-Regressive-Generation-Acceleration)
  
 ## 💬 <span id="head1"> *Keywords* </span>
-![](https://img.shields.io/badge/Abbreviation-blue) The abbreviation of the work.
-
-![](https://img.shields.io/badge/Application-green) The main explored task of the work.
-
-![](https://img.shields.io/badge/Other-orange) Acceleration mechanism of the work.
+![](https://img.shields.io/badge/Abbreviation-blue) ![](https://img.shields.io/badge/Application-green) ![](https://img.shields.io/badge/Mechanism-orange) 
 
 ## 📝 <span id="head1"> *Papers* </span>
 
@@ -392,5 +388,5 @@ Base modals: [Anole](https://github.com/GAIR-NLP/anole) and [Lumina-mGPT](https:
 
 
 
-## :mailbox: <span id="head1"> *Contact* </span>
+## 📫 <span id="head1"> *Contact* </span>
 For any question, please contact [Xuyang Liu](mailto:liuxuyang@stu.scu.edu.cn).
