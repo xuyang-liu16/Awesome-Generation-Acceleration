@@ -15,8 +15,14 @@
 
 </div>
 
+## 🔥 <span id="head1"> *News* </span>
 
-## Outline
+* [Oct 10th, 2024] We release our work "**[ToCa](https://github.com/Shenyi-Z/ToCa)**" about training-free DiT acceleration.
+
+* [Jul 15th, 2024] Our "**[Awesome-Diffusion-Acceleration](https://github.com/xuyang-liu16/Awesome-Diffusion-Acceleration)**" repository is created.
+
+
+## 📚 <span id="head1"> *Outline* </span>
 
 - Awesome-Diffusion-Acceleration
   - [Sampling Solver](#sampling-solver)
@@ -30,9 +36,17 @@
   - [Stable Diffusion](#Training-free-Stable-Diffusion-Acceleration)
   - [Diffusion Transformer](#Training-free-Diffusion-Transformer-Acceleration)
   - [Auto-Regressive Generation](#Training-free-Auto-Regressive-Generation-Acceleration)
+ 
+## 💬 <span id="head1"> *Keywords* </span>
+![](https://img.shields.io/badge/Abbreviation-blue) The abbreviation of the work.
 
+![](https://img.shields.io/badge/Application-green) The main explored task of the work.
 
-## Sampling Solver
+![](https://img.shields.io/badge/Other-orange) Acceleration mechanism of the work.
+
+## 📝 <span id="head1"> *Papers* </span>
+
+### Sampling Solver
 
 - **[1] Denoising Diffusion Implicit Models**, ICLR 2021.
   
@@ -54,7 +68,7 @@
   
   
 
-## Pruning
+### Pruning
 
 - **[1] Token Merging for Fast Stable Diffusion**, CVPRW 2023.
   
@@ -106,7 +120,7 @@
 
 
 
-## Quantization
+### Quantization
 
 - **[1] Post-training Quantization on Diffusion Models**, CVPR 2023.
   
@@ -147,7 +161,7 @@
 
 
 
-## Distillation
+### Distillation
 
 - **[1] Progressive Distillation for Fast Sampling of Diffusion Models**, ICLR 2022.
 
@@ -176,7 +190,7 @@
   
 
   
-## Cache Mechanism
+### Cache Mechanism
 
 - **[1] Faster Diffusion: Rethinking the Role of UNet Encoder in Diffusion Models**, arXiv 2023.
   
@@ -222,7 +236,7 @@
   [[Paper](https://arxiv.org/pdf/2409.18523)] [Code] ![](https://img.shields.io/badge/TokenCache-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Token_Compression-orange)
 
    
-## Deployment Optimization
+### Deployment Optimization
 
 - **[1] DistriFusion: Distributed Parallel Inference for High-Resolution Diffusion Models**, CVPR 2024 Highlight.
 
@@ -245,7 +259,7 @@
   [[Paper](https://arxiv.org/pdf/2406.06911)] [[Code](https://github.com/czg1225/AsyncDiff)] ![](https://img.shields.io/badge/AsyncDiff-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Deployment_Optimization-orange)
 
   
-## Others
+### Others
 
 - **[1] Efficient Diffusion Transformer with Step-wise Dynamic Attention Mediators**, ECCV 2024.
 
@@ -376,8 +390,6 @@ Base modals: [Anole](https://github.com/GAIR-NLP/anole) and [Lumina-mGPT](https:
 
 
 
-  
 
-
-## Contact
-:mailbox: For any question, please contact [Xuyang Liu](mailto:liuxuyang@stu.scu.edu.cn).
+## :mailbox: <span id="head1"> *Contact* </span>
+For any question, please contact [Xuyang Liu](mailto:liuxuyang@stu.scu.edu.cn).
