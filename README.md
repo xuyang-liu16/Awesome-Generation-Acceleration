@@ -18,12 +18,12 @@
 
 ## 🔥 <span id="head1"> *News* </span>
 
-* [Oct 10th, 2024] We release our work "**[ToCa](https://github.com/Shenyi-Z/ToCa)**" about training-free DiT acceleration.
+* [2024/10/12] We release our work "**[ToCa](https://github.com/Shenyi-Z/ToCa)**" about training-free DiT acceleration!
 
-* [Jul 15th, 2024] Our "**[Awesome-Diffusion-Acceleration](https://github.com/xuyang-liu16/Awesome-Diffusion-Acceleration)**" repository is created.
+* [2024/07/15] We release an open-sourse repo "**[Awesome-Diffusion-Acceleration](https://github.com/xuyang-liu16/Awesome-Diffusion-Acceleration)**"!
 
 
-## 📚 <span id="head1"> *Outline* </span>
+## 📚 <span id="head1"> *Contents* </span>
 
 - Awesome-Diffusion-Acceleration
   - [Sampling Solver](#sampling-solver)
