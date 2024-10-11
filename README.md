@@ -121,6 +121,12 @@
 
   [[Paper](https://arxiv.org/pdf/2410.03456)] [[Code](https://github.com/NUS-HPC-AI-Lab/Dynamic-Diffusion-Transformer)] ![](https://img.shields.io/badge/DyDiT-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Token_Compression-orange)
 
+- **[9] ToDo: Token Downsampling for Efficient Generation of High-Resolution Images**, arXiv 2024.
+  
+  *Smith, Ethan and Saxena, Nayan and Saha, Aninda.*
+
+  [[Paper](https://arxiv.org/pdf/2402.13573)] [Code] ![](https://img.shields.io/badge/ToDo-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Token_Merging-orange)
+
 
 
 ### Quantization
@@ -351,7 +357,12 @@ Base modals: [Stable Diffusion](https://github.com/CompVis/stable-diffusion), [S
   *Liu, Haozhe and Zhang, Wentian and Xie, Jinheng and Faccio, Francesco and Xu, Mengmeng and Xiang, Tao and Shou, Mike Zheng and Perez-Rua, Juan-Manuel and Schmidhuber, J{\"u}rgen}.*
 
   [[Paper](https://arxiv.org/pdf/2404.02747v2)] [[Code](https://github.com/HaozheLiu-ST/T-GATE)] ![](https://img.shields.io/badge/T_GATEv2-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Cache_Mechanism-orange)
+
+- **[12] ToDo: Token Downsampling for Efficient Generation of High-Resolution Images**, arXiv 2024.
   
+  *Smith, Ethan and Saxena, Nayan and Saha, Aninda.*
+
+  [[Paper](https://arxiv.org/pdf/2402.13573)] [Code] ![](https://img.shields.io/badge/ToDo-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Token_Merging-orange)
   
 
 ### Training-free Diffusion Transformer Acceleration
