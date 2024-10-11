@@ -26,7 +26,7 @@
 ## 📚 <span id="head1"> *Contents* </span>
 
 - Awesome Generation Acceleration
-  - [Sampling Solver](#sampling-solver)
+  - [Fast Sampling](#fast-sampling)
   - [Pruning](#pruning)
   - [Quantization](#quantization)
   - [Distillation](#distillation)
@@ -43,7 +43,7 @@
 
 ## 📝 <span id="head1"> *Papers* </span>
 
-### Sampling Solver
+### Fast Sampling
 
 - **[1] Denoising Diffusion Implicit Models**, ICLR 2021.
   
@@ -62,6 +62,12 @@
   *Lu, Cheng and Zhou, Yuhao and Bao, Fan and Chen, Jianfei and Li, Chongxuan and Zhu, Jun.*
 
   [[Paper](https://arxiv.org/pdf/2211.01095)] [[Code](https://github.com/LuChengTHU/dpm-solver)] ![](https://img.shields.io/badge/DPM_Solver++-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Sampling_Solver-orange)
+
+- **[4] Jump Your Steps: Optimizing Sampling Schedule of Discrete Diffusion Models**, arXiv 2022.
+  
+  *Yong-Hyun Park and Chieh-Hsin Lai and Satoshi Hayakawa and Yuhta Takida and Yuki Mitsufuji.*
+
+  [[Paper](https://arxiv.org/pdf/2410.07761#page=8.39)] [Code] ![](https://img.shields.io/badge/JYS-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Step_Skipping-orange)
   
   
 
@@ -184,7 +190,11 @@
 
   [[Paper](https://arxiv.org/pdf/2410.04191)] [Code] ![](https://img.shields.io/badge/O2MKD-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/New_Distillation_Paradigm-orange)
 
+- **[5] Relational Diffusion Distillation for Efficient Image Generation**, ACM MM 2024.
   
+  *Weilun Feng and Chuanguang Yang and Zhulin An and Libo Huang and Boyu Diao and Fei Wang and Yongjun Xu.*
+  
+  [[Paper](https://arxiv.org/pdf/2410.07679)] [[Code](https://github.com/cantbebetter2/RDD)] ![](https://img.shields.io/badge/RDD-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badgeStep_Distillation-orange)
 
   
 ### Cache Mechanism
