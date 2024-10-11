@@ -1,6 +1,6 @@
 <div align=center>
 
-# 𝙰𝚠𝚎𝚜𝚘𝚖𝚎 𝙳𝚒𝚏𝚏𝚞𝚜𝚒𝚘𝚗 𝙰𝚌𝚌𝚎𝚕𝚎𝚛𝚊𝚝𝚒𝚘𝚗
+# 𝙰𝚠𝚎𝚜𝚘𝚖𝚎 𝙶𝚎𝚗𝚎𝚛𝚊𝚝𝚒𝚘𝚗 𝙰𝚌𝚌𝚎𝚕𝚎𝚛𝚊𝚝𝚒𝚘𝚗
 
 <p>
 
@@ -12,7 +12,7 @@
 
 </p>
 
-:loudspeaker: 𝙲𝚘𝚕𝚕𝚎𝚌𝚝𝚒𝚘𝚗 𝚘𝚏 𝙰𝚠𝚎𝚜𝚘𝚖𝚎 𝙳𝚒𝚏𝚏𝚞𝚜𝚒𝚘𝚗 𝙰𝚌𝚌𝚎𝚕𝚎𝚛𝚊𝚝𝚒𝚘𝚗 𝚁𝚎𝚜𝚘𝚞𝚛𝚌𝚎𝚜.
+:loudspeaker: 𝙲𝚘𝚕𝚕𝚎𝚌𝚝𝚒𝚘𝚗 𝚘𝚏 𝙰𝚠𝚎𝚜𝚘𝚖𝚎 𝙶𝚎𝚗𝚎𝚛𝚊𝚝𝚒𝚘𝚗 𝙰𝚌𝚌𝚎𝚕𝚎𝚛𝚊𝚝𝚒𝚘𝚗 𝚁𝚎𝚜𝚘𝚞𝚛𝚌𝚎𝚜.
 
 </div>
 
@@ -20,12 +20,12 @@
 
 * [2024/10/12] We release our work "**[ToCa](https://github.com/Shenyi-Z/ToCa)**" about training-free DiT acceleration!
 
-* [2024/07/15] We release an open-sourse repo "**[Awesome-Diffusion-Acceleration](https://github.com/xuyang-liu16/Awesome-Diffusion-Acceleration)**"!
+* [2024/07/15] We release an open-sourse repo "**[Awesome-Generation-Acceleration](https://github.com/xuyang-liu16/Awesome-Generation-Acceleration)**"!
 
 
 ## 📚 <span id="head1"> *Contents* </span>
 
-- Awesome-Diffusion-Acceleration
+- Awesome Generation Acceleration
   - [Sampling Solver](#sampling-solver)
   - [Pruning](#pruning)
   - [Quantization](#quantization)
@@ -33,7 +33,7 @@
   - [Cache Mechanism](#cache-mechanism)
   - [Deployment Optimization](#deployment-optimization)
   - [Others](#others)
-- Training-free Diffusion Acceleration
+- Training-free Generation Acceleration
   - [Stable Diffusion](#Training-free-Stable-Diffusion-Acceleration)
   - [Diffusion Transformer](#Training-free-Diffusion-Transformer-Acceleration)
   - [Auto-Regressive Generation](#Training-free-Auto-Regressive-Generation-Acceleration)
@@ -266,14 +266,14 @@
 
 <div align=center>
 
-# 𝚃𝚛𝚊𝚒𝚗𝚒𝚗𝚐-𝚏𝚛𝚎𝚎 𝙳𝚒𝚏𝚏𝚞𝚜𝚒𝚘𝚗 𝙰𝚌𝚌𝚎𝚕𝚎𝚛𝚊𝚝𝚒𝚘𝚗
+# 𝚃𝚛𝚊𝚒𝚗𝚒𝚗𝚐-𝚏𝚛𝚎𝚎 𝙶𝚎𝚗𝚎𝚛𝚊𝚝𝚒𝚘𝚗 𝙰𝚌𝚌𝚎𝚕𝚎𝚛𝚊𝚝𝚒𝚘𝚗
 
-:loudspeaker: 𝙲𝚘𝚕𝚕𝚎𝚌𝚝𝚒𝚘𝚗 𝚘𝚏 𝙰𝚠𝚎𝚜𝚘𝚖𝚎 𝚃𝚛𝚊𝚒𝚗𝚒𝚗𝚐-𝚏𝚛𝚎𝚎 𝙳𝚒𝚏𝚏𝚞𝚜𝚒𝚘𝚗 𝙰𝚌𝚌𝚎𝚕𝚎𝚛𝚊𝚝𝚒𝚘𝚗 𝚁𝚎𝚜𝚘𝚞𝚛𝚌𝚎𝚜.
+:loudspeaker: 𝙲𝚘𝚕𝚕𝚎𝚌𝚝𝚒𝚘𝚗 𝚘𝚏 𝙰𝚠𝚎𝚜𝚘𝚖𝚎 𝚃𝚛𝚊𝚒𝚗𝚒𝚗𝚐-𝚏𝚛𝚎𝚎 𝙶𝚎𝚗𝚎𝚛𝚊𝚝𝚒𝚘𝚗 𝙰𝚌𝚌𝚎𝚕𝚎𝚛𝚊𝚝𝚒𝚘𝚗 𝚁𝚎𝚜𝚘𝚞𝚛𝚌𝚎𝚜.
 
 </div>
 
 
-## Training-free Stable Diffusion Acceleration
+### Training-free Stable Diffusion Acceleration
 Base modals: [Stable Diffusion](https://github.com/CompVis/stable-diffusion), [Stable Video Diffusion](https://github.com/Stability-AI/generative-models) and [Text2Video-Zero](https://github.com/Picsart-AI-Research/Text2Video-Zero).
   
 - **[1] Token Merging for Fast Stable Diffusion**, CVPRW 2023.
@@ -344,7 +344,7 @@ Base modals: [Stable Diffusion](https://github.com/CompVis/stable-diffusion), [S
   
   
 
-## Training-free Diffusion Transformer Acceleration
+### Training-free Diffusion Transformer Acceleration
 Base modals: [DiT-XL](https://github.com/facebookresearch/DiT) for Image Generation, [PIXART-α](https://github.com/PixArt-alpha/PixArt-alpha) for Text2Image, [Open-Sora](https://github.com/hpcaitech/Open-Sora) and [Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan) for Text2Video.
 - **[1] ∆-DiT: A Training-Free Acceleration Method Tailored for Diffusion Transformers**, arXiv 2024.
   
@@ -376,7 +376,7 @@ Base modals: [DiT-XL](https://github.com/facebookresearch/DiT) for Image Generat
   
   [[Paper](https://arxiv.org/pdf/2410.05317)] [[Code](https://github.com/Shenyi-Z/ToCa)] ![](https://img.shields.io/badge/ToCa-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Text2Video-green) ![](https://img.shields.io/badge/Cache_Mechanism-orange)
 
-##  Training-free Auto-Regressive Generation Acceleration
+###  Training-free Auto-Regressive Generation Acceleration
 Base modals: [Anole](https://github.com/GAIR-NLP/anole) and [Lumina-mGPT](https://github.com/Alpha-VLLM/Lumina-mGPT) for Text2Image.
 
 - **[1] Accelerating Auto-regressive Text-to-Image Generation with Training-free Speculative Jacobi Decoding**, arXiv 2024.
