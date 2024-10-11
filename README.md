@@ -18,9 +18,9 @@
 
 ## 🔥 <span id="head1"> *News* </span>
 
-* [2024/10/12] We release our work "**[ToCa](https://github.com/Shenyi-Z/ToCa)**" about training-free DiT acceleration!
+* `2024/10/12` We release our work "**[ToCa](https://github.com/Shenyi-Z/ToCa)**" about training-free DiT acceleration!
 
-* [2024/07/15] We release an open-sourse repo "**[Awesome-Generation-Acceleration](https://github.com/xuyang-liu16/Awesome-Generation-Acceleration)**"!
+* `2024/07/15` We release an open-sourse repo "**[Awesome-Generation-Acceleration](https://github.com/xuyang-liu16/Awesome-Generation-Acceleration)**"!
 
 
 ## 📚 <span id="head1"> *Contents* </span>
