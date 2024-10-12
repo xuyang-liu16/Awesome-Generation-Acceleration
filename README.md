@@ -248,6 +248,13 @@
 
   [[Paper](https://arxiv.org/pdf/2409.18523)] [Code] ![](https://img.shields.io/badge/TokenCache-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Token_Compression-orange)
 
+- **[8] HarmoniCa: Harmonizing Training and Inference for Better Feature Cache in Diffusion Transformer Acceleration**, arXiv 2024.
+
+  *Yushi Huang and Zining Wang and Ruihao Gong and Jing Liu and Xinjie Zhang and Jun Zhang.*
+
+  [[Paper](https://arxiv.org/pdf/2410.01723)] [Code] ![](https://img.shields.io/badge/HarmoniCa-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Token_Compression-orange)
+
+
    
 ### Deployment Optimization
 
