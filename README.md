@@ -28,7 +28,6 @@
 - Awesome Generation Acceleration
   - [Fast Sampling](#fast-sampling)
   - [Pruning](#pruning)
-  - [Early-exiting](#early-exiting)
   - [Quantization](#quantization)
   - [Distillation](#distillation)
   - [Cache Mechanism](#cache-mechanism)
@@ -69,6 +68,18 @@
   *Yong-Hyun Park and Chieh-Hsin Lai and Satoshi Hayakawa and Yuhta Takida and Yuki Mitsufuji.*
 
   [[Paper](https://arxiv.org/pdf/2410.07761#page=8.39)] [Code] ![](https://img.shields.io/badge/JYS-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Step_Skipping-orange)
+
+- **[5] AdaDiff: Adaptive Step Selection for Fast Diffusion**, arXiv 2023.
+
+  *Hui Zhang, Zuxuan Wu, Zhen Xing, Jie Shao, Yu-Gang Jiang.*
+  
+  [[Paper](https://arxiv.org/pdf/2311.14768)] [Code] ![](https://img.shields.io/badge/DuoDiff-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Step-Selection-orange)
+
+- **[6] DuoDiff: Accelerating Diffusion Models with a Dual-Backbone Approach**, arXiv 2024.
+  
+  *Daniel Gallo Fernández, Rǎzvan-Andrei Matişan, Alejandro Monroy Muñoz, Ana-Maria Vasilcoiu, Janusz Partyka, Tin Hadži Veljković, Metod Jazbec.*
+
+  [[Paper](https://arxiv.org/pdf/2410.09633)] [Code] ![](https://img.shields.io/badge/DuoDiff-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Exiting_by_Networks-orange)
   
   
 
@@ -127,23 +138,6 @@
   *Smith, Ethan and Saxena, Nayan and Saha, Aninda.*
 
   [[Paper](https://arxiv.org/pdf/2402.13573)] [Code] ![](https://img.shields.io/badge/ToDo-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Token_Merging-orange)
-
-
-### Early-exiting
-
-- **[1] AdaDiff: Adaptive Step Selection for Fast Diffusion**, arXiv 2024.
-  
-  *Hui Zhang, Zuxuan Wu, Zhen Xing, Jie Shao, Yu-Gang Jiang.*
-
-  [[Paper](https://arxiv.org/pdf/2311.14768)] [Code] ![](https://img.shields.io/badge/DuoDiff-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Step-Selection-orange)
-
-
-- **[2] DuoDiff: Accelerating Diffusion Models with a Dual-Backbone Approach**, arXiv 2024.
-  
-  *Daniel Gallo Fernández, Rǎzvan-Andrei Matişan, Alejandro Monroy Muñoz, Ana-Maria Vasilcoiu, Janusz Partyka, Tin Hadži Veljković, Metod Jazbec.*
-
-  [[Paper](https://arxiv.org/pdf/2410.09633)] [Code] ![](https://img.shields.io/badge/DuoDiff-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Exiting_by_Networks-orange)
-
 
 
 ### Quantization
