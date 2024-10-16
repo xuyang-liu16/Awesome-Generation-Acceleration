@@ -139,6 +139,12 @@
 
   [[Paper](https://arxiv.org/pdf/2402.13573)] [Code] ![](https://img.shields.io/badge/ToDo-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Token_Merging-orange)
 
+- **[10] Turbo: Informativity-Driven Acceleration Plug-In for Vision-Language Models**, ECCV 2024.
+  
+  *Ju, Chen and Wang, Haicheng and Li, Zeqian and Chen, Xu and Zhai, Zhonghua and Huang, Weilin and Xiao, Shuai.*
+
+  [[Paper](https://arxiv.org/pdf/2312.07408)] [Code] ![](https://img.shields.io/badge/Turbo-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Token_Merging-orange)
+
 
 ### Quantization
 
@@ -381,6 +387,12 @@ Base modals: [Stable Diffusion](https://github.com/CompVis/stable-diffusion), [S
   *Smith, Ethan and Saxena, Nayan and Saha, Aninda.*
 
   [[Paper](https://arxiv.org/pdf/2402.13573)] [Code] ![](https://img.shields.io/badge/ToDo-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Token_Merging-orange)
+
+- **[13] Turbo: Informativity-Driven Acceleration Plug-In for Vision-Language Models**, ECCV 2024.
+  
+  *Ju, Chen and Wang, Haicheng and Li, Zeqian and Chen, Xu and Zhai, Zhonghua and Huang, Weilin and Xiao, Shuai.*
+
+  [[Paper](https://arxiv.org/pdf/2312.07408)] [Code] ![](https://img.shields.io/badge/Turbo-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Token_Merging-orange)
   
 
 ### Training-free Diffusion Transformer Acceleration
