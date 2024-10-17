@@ -440,4 +440,4 @@ Base modals: [Anole](https://github.com/GAIR-NLP/anole) and [Lumina-mGPT](https:
 
 
 ## 💌 <span id="head1"> *Contact* </span>
-For any question, please contact [Xuyang Liu](mailto:liuxuyang@stu.scu.edu.cn).
+For any question, please email `liuxuyang@stu.scu.edu.cn`.
