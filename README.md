@@ -145,6 +145,12 @@
 
   [[Paper](https://arxiv.org/pdf/2312.07408)] [Code] ![](https://img.shields.io/badge/Turbo-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Token_Merging-orange)
 
+- **[11] F<sup>3</sup>-Pruning: A Training-Free and Generalized Pruning Strategy towards Faster and Finer Text-to-Video Synthesis**, AAAI 2024.
+  
+  *Su, Sitong and Liu, Jianzhi and Gao, Lianli and Song, Jingkuan.*
+
+  [[Paper](https://arxiv.org/pdf/2312.03459)] [Code] ![](https://img.shields.io/badge/F3_Pruning-blue) ![](https://img.shields.io/badge/Text2Video-green) ![](https://img.shields.io/badge/Token_Pruning-orange)
+
 
 ### Quantization
 
