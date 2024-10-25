@@ -14,7 +14,7 @@
 
 </p>
 
-<p align="center"> <img src="logo.webp" width="1000" align="center"> </p>
+<p align="center"> <img src="logo.webp" width="500" align="center"> </p>
 
 :loudspeaker: 𝙲𝚘𝚕𝚕𝚎𝚌𝚝𝚒𝚘𝚗 𝚘𝚏 𝙰𝚠𝚎𝚜𝚘𝚖𝚎 𝙶𝚎𝚗𝚎𝚛𝚊𝚝𝚒𝚘𝚗 𝙰𝚌𝚌𝚎𝚕𝚎𝚛𝚊𝚝𝚒𝚘𝚗 𝚁𝚎𝚜𝚘𝚞𝚛𝚌𝚎𝚜.
 
