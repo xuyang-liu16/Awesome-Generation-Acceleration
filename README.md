@@ -153,6 +153,12 @@
   *Su, Sitong and Liu, Jianzhi and Gao, Lianli and Song, Jingkuan.*
 
   [[Paper](https://arxiv.org/pdf/2312.03459)] [Code] ![](https://img.shields.io/badge/F3_Pruning-blue) ![](https://img.shields.io/badge/Text2Video-green) ![](https://img.shields.io/badge/Token_Pruning-orange)
+  
+- **[12] DiP-GO: A Diffusion Pruner via Few-step Gradient Optimization**, NeurIPS 2024.
+  
+  *Zhu, Haowei and Tang, Dehua and Liu, Ji and Lu, Mingjie and Zheng, Jintu and Peng, Jinzhang and Li, Dong and Wang, Yu and Jiang, Fan and Tian, Lu and others.*
+
+  [[Paper](https://arxiv.org/pdf/2410.16942)] [Code] ![](https://img.shields.io/badge/DiP_GO-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Layer_Pruning-orange)
 
 
 ### Quantization
