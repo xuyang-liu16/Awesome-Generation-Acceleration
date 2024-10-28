@@ -243,7 +243,6 @@
 
   [[Paper](https://arxiv.org/pdf/2312.09608)] [[Code](https://github.com/hutaiHang/Faster-Diffusion)] ![](https://img.shields.io/badge/Faster_Diffusion-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Personalized_Generation-green) ![](https://img.shields.io/badge/Text2Video-green) ![](https://img.shields.io/badge/Cache_Mechanism-orange)
 
-
 - **[2] DeepCache: Accelerating Diffusion Models for Free**, CVPR 2024.
   
   *Ma, Xinyin and Fang, Gongfan and Wang, Xinchao.*
@@ -285,6 +284,18 @@
   *Yushi Huang and Zining Wang and Ruihao Gong and Jing Liu and Xinjie Zhang and Jun Zhang.*
 
   [[Paper](https://arxiv.org/pdf/2410.01723)] [Code] ![](https://img.shields.io/badge/HarmoniCa-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Token_Compression-orange)
+
+- **[9] Accelerating Diffusion Transformers with Token-wise Feature Caching**, arXiv 2024.
+
+  *Chang Zou and Xuyang Liu and Ting Liu and Siteng Huang and Linfeng Zhang.*
+  
+  [[Paper](https://arxiv.org/pdf/2410.05317)] [[Code](https://github.com/Shenyi-Z/ToCa)] ![](https://img.shields.io/badge/ToCa-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Text2Video-green) ![](https://img.shields.io/badge/Cache_Mechanism-orange)
+
+- **[10] FasterCache: Training-Free Video Diffusion Model Acceleration with High Quality**, arXiv 2024.
+
+  *Zhengyao Lv and Chenyang Si and Junhao Song and Zhenyu Yang and Yu Qiao and Ziwei Liu and Kwan-Yee K. Wong.*
+  
+  [[Paper](https://arxiv.org/pdf/2410.19355)] [[Code](https://github.com/Vchitect/FasterCache)] ![](https://img.shields.io/badge/FasterCache-blue) ![](https://img.shields.io/badge/Text2Video-green) ![](https://img.shields.io/badge/Cache_Mechanism-orange)
 
 
    
@@ -447,6 +458,15 @@ Base modals: [DiT-XL](https://github.com/facebookresearch/DiT) for Image Generat
   *Chang Zou and Xuyang Liu and Ting Liu and Siteng Huang and Linfeng Zhang.*
   
   [[Paper](https://arxiv.org/pdf/2410.05317)] [[Code](https://github.com/Shenyi-Z/ToCa)] ![](https://img.shields.io/badge/ToCa-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Text2Video-green) ![](https://img.shields.io/badge/Cache_Mechanism-orange)
+
+- **[6] FasterCache: Training-Free Video Diffusion Model Acceleration with High Quality**, arXiv 2024.
+
+  *Zhengyao Lv and Chenyang Si and Junhao Song and Zhenyu Yang and Yu Qiao and Ziwei Liu and Kwan-Yee K. Wong.*
+  
+  [[Paper](https://arxiv.org/pdf/2410.19355)] [[Code](https://github.com/Vchitect/FasterCache)] ![](https://img.shields.io/badge/FasterCache-blue) ![](https://img.shields.io/badge/Text2Video-green) ![](https://img.shields.io/badge/Cache_Mechanism-orange)
+
+
+
 
 ###  Training-free Auto-Regressive Generation Acceleration
 Base modals: [Anole](https://github.com/GAIR-NLP/anole) and [Lumina-mGPT](https://github.com/Alpha-VLLM/Lumina-mGPT) for Text2Image.
