@@ -21,9 +21,9 @@
 
 ## 🔥 <span id="head1"> *News* </span>
 
-* `2024/10/12` We release our work "**[ToCa](https://github.com/Shenyi-Z/ToCa)**" about training-free DiT acceleration!
+* `2024/10/12` 🚀🚀 We release our work [ToCa](https://arxiv.org/abs/2410.05317) about accelerating diffusion transformers for FREE, which achieves nearly lossless acceleration of **2.36×** on OpenSora!
 
-* `2024/07/15` We release an open-sourse repo "**[Awesome-Generation-Acceleration](https://github.com/xuyang-liu16/Awesome-Generation-Acceleration)**"!
+* `2024/07/15` 🤗🤗 We release an open-sourse repo "[Awesome-Generation-Acceleration](https://github.com/xuyang-liu16/Awesome-Generation-Acceleration)", which collets awesome generation accleration papers!
 
 
 ## 📚 <span id="head1"> *Contents* </span>
