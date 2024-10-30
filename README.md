@@ -144,7 +144,7 @@
   
   *Ju, Chen and Wang, Haicheng and Li, Zeqian and Chen, Xu and Zhai, Zhonghua and Huang, Weilin and Xiao, Shuai.*
 
-  [[Paper](https://arxiv.org/pdf/2312.07408)] [Code] ![](https://img.shields.io/badge/Turbo-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Token_Merging-orange)
+  [[Paper](https://arxiv.org/pdf/2407.11717)] [Code] ![](https://img.shields.io/badge/Turbo-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Token_Merging-orange)
 
 - **[11] F<sup>3</sup>-Pruning: A Training-Free and Generalized Pruning Strategy towards Faster and Finer Text-to-Video Synthesis**, AAAI 2024.
   
