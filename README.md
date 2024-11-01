@@ -74,7 +74,7 @@
 
   *Hui Zhang, Zuxuan Wu, Zhen Xing, Jie Shao, Yu-Gang Jiang.*
   
-  [[Paper](https://arxiv.org/pdf/2311.14768)] [Code] ![](https://img.shields.io/badge/AdaDiff-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Step-Selection-orange)
+  [[Paper](https://arxiv.org/pdf/2311.14768)] [Code] ![](https://img.shields.io/badge/AdaDiff-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Step_Selection-orange)
 
 - **[6] DuoDiff: Accelerating Diffusion Models with a Dual-Backbone Approach**, arXiv 2024.
   
