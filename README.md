@@ -295,6 +295,12 @@
   
   [[Paper](https://arxiv.org/pdf/2410.19355)] [[Code](https://github.com/Vchitect/FasterCache)] ![](https://img.shields.io/badge/FasterCache-blue) ![](https://img.shields.io/badge/Text2Video-green) ![](https://img.shields.io/badge/Cache_Mechanism-orange)
 
+- **[11] Adaptive Caching for Faster Video Generation with Diffusion Transformers**, arXiv 2024.
+
+  *Kumara Kahatapitiya and Haozhe Liu and Sen He and Ding Liu and Menglin Jia and Michael S. Ryoo and Tian Xie.*
+  
+  [[Paper](https://arxiv.org/pdf/2411.02397)] [[Code](https://github.com/AdaCache-DiT/AdaCache)] ![](https://img.shields.io/badge/AdaCache-blue) ![](https://img.shields.io/badge/Text2Video-green) ![](https://img.shields.io/badge/Cache_Mechanism-orange)
+
 
    
 ### Deployment Optimization
@@ -462,6 +468,12 @@ Base modals: [DiT-XL](https://github.com/facebookresearch/DiT) for Image Generat
   *Zhengyao Lv and Chenyang Si and Junhao Song and Zhenyu Yang and Yu Qiao and Ziwei Liu and Kwan-Yee K. Wong.*
   
   [[Paper](https://arxiv.org/pdf/2410.19355)] [[Code](https://github.com/Vchitect/FasterCache)] ![](https://img.shields.io/badge/FasterCache-blue) ![](https://img.shields.io/badge/Text2Video-green) ![](https://img.shields.io/badge/Cache_Mechanism-orange)
+
+- **[7] Adaptive Caching for Faster Video Generation with Diffusion Transformers**, arXiv 2024.
+
+  *Kumara Kahatapitiya and Haozhe Liu and Sen He and Ding Liu and Menglin Jia and Michael S. Ryoo and Tian Xie.*
+  
+  [[Paper](https://arxiv.org/pdf/2411.02397)] [[Code](https://github.com/AdaCache-DiT/AdaCache)] ![](https://img.shields.io/badge/AdaCache-blue) ![](https://img.shields.io/badge/Text2Video-green) ![](https://img.shields.io/badge/Cache_Mechanism-orange)
 
 
 
