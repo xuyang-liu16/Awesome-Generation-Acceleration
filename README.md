@@ -325,6 +325,12 @@
 
   [[Paper](https://arxiv.org/pdf/2406.06911)] [[Code](https://github.com/czg1225/AsyncDiff)] ![](https://img.shields.io/badge/AsyncDiff-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Deployment_Optimization-orange)
 
+- **[4] Fast and Memory-Efficient Video Diffusion Using Streamlined Inference**, NeurIPS 2024.
+  
+  *Zheng Zhan and Yushu Wu and Yifan Gong and Zichong Meng and Zhenglun Kong and Changdi Yang and Geng Yuan and Pu Zhao and Wei Niu and Yanzhi Wang.*
+
+  [[Paper](https://arxiv.org/pdf/2411.01171)] [[Code](https://github.com/wuyushuwys/FMEDiffusion)] ![](https://img.shields.io/badge/Streamlined_Inference-blue) ![](https://img.shields.io/badge/Text2Video-green) ![](https://img.shields.io/badge/Streamlined_Inference-orange)
+
   
 ### Others
 
@@ -429,7 +435,13 @@ Base modals: [Stable Diffusion](https://github.com/CompVis/stable-diffusion), [S
   *Su, Sitong and Liu, Jianzhi and Gao, Lianli and Song, Jingkuan.*
 
   [[Paper](https://arxiv.org/pdf/2312.03459)] [Code] ![](https://img.shields.io/badge/F3_Pruning-blue) ![](https://img.shields.io/badge/Text2Video-green) ![](https://img.shields.io/badge/Token_Pruning-orange)
+
+- **[15] Fast and Memory-Efficient Video Diffusion Using Streamlined Inference**, NeurIPS 2024.
   
+  *Zheng Zhan and Yushu Wu and Yifan Gong and Zichong Meng and Zhenglun Kong and Changdi Yang and Geng Yuan and Pu Zhao and Wei Niu and Yanzhi Wang.*
+
+  [[Paper](https://arxiv.org/pdf/2411.01171)] [[Code](https://github.com/wuyushuwys/FMEDiffusion)] ![](https://img.shields.io/badge/Streamlined_Inference-blue) ![](https://img.shields.io/badge/Text2Video-green) ![](https://img.shields.io/badge/Streamlined_Inference-orange)
+
 
 ### Training-free Diffusion Transformer Acceleration
 Base modals: [DiT-XL](https://github.com/facebookresearch/DiT) for Image Generation, [PIXART-α](https://github.com/PixArt-alpha/PixArt-alpha) for Text2Image, [Open-Sora](https://github.com/hpcaitech/Open-Sora) and [Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan) for Text2Video.
