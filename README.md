@@ -197,6 +197,12 @@
 
    [[Paper](https://arxiv.org/pdf/2406.17343)] [[Code](https://github.com/Juanerx/Q_DiT)] ![](https://img.shields.io/badge/Q_DiT-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Post_training_Quantization-orange)
 
+ - **[７] SVDQunat: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models**, arXiv 2024.
+
+   *Muyang Li and Yujun Lin and Zhekai Zhang and Tianle Cai and Xiuyu Li and Junxian Guo and Enze Xie and Chenlin Meng and Jun-Yan Zhu and Song Han.*
+
+   [[Paper](https://arxiv.org/pdf/2411.05007)] [[Code](https://github.com/mit-han-lab/nunchaku)] ![](https://img.shields.io/badge/SVDQunat-blue) ![](https://img.shields.io/badge/Image_Generation-green)　![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Post_training_Quantization-orange)
+
 
 
 
