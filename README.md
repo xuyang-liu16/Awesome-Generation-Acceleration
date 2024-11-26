@@ -307,6 +307,12 @@
   
   [[Paper](https://arxiv.org/pdf/2411.02397)] [[Code](https://github.com/AdaCache-DiT/AdaCache)] ![](https://img.shields.io/badge/AdaCache-blue) ![](https://img.shields.io/badge/Text2Video-green) ![](https://img.shields.io/badge/Cache_Mechanism-orange)
 
+- **[1２] Ca2-VDM: Efficient Autoregressive Video Diffusion Model　with Causal Generation and Cache Sharing**, arXiv 2024.
+
+  *Kaifeng Gao and Jiaxin Shi and Hanwang Zhang and Chunping Wang and Jun Xiao and Long Chen.*
+  
+  [[Paper](https://arxiv.org/pdf/2411.16375)] [[Code](https://github.com/Dawn-LX/CausalCache-VDM/)] ![](https://img.shields.io/badge/Ca2-VDM-blue) ![](https://img.shields.io/badge/Text2Video-green) ![](https://img.shields.io/badge/Cache_Mechanism-orange)
+
 
    
 ### Deployment Optimization
