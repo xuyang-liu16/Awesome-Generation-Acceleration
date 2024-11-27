@@ -313,6 +313,12 @@
   
   [[Paper](https://arxiv.org/pdf/2411.16375)] [[Code](https://github.com/Dawn-LX/CausalCache-VDM/)] ![](https://img.shields.io/badge/Ca2-VDM-blue) ![](https://img.shields.io/badge/Text2Video-green) ![](https://img.shields.io/badge/Cache_Mechanism-orange)
 
+- **[13] Accelerating Vision Diffusion Transformers with Skip Branches**, arXiv 2024.
+
+  *Guanjie Chen and Xinyu Zhao and Yucheng Zhou and Tianlong Chen and Cheng Yu.*
+  
+  [[Paper](https://arxiv.org/pdf/2411.17616)] [[Code](https://github.com/OpenSparseLLMs/Skip-DiT)] ![](https://img.shields.io/badge/Skip_DiT-blue) ![](https://img.shields.io/badge/Text2Video-green) ![](https://img.shields.io/badge/Cache_Mechanism-orange)
+
 
    
 ### Deployment Optimization
