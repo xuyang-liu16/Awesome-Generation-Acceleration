@@ -158,6 +158,12 @@
 
   [[Paper](https://arxiv.org/pdf/2410.16942)] [Code] ![](https://img.shields.io/badge/DiP_GO-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Layer_Pruning-orange)
 
+- **[13] Importance-based Token Merging for Diffusion Models**, arXiv 2024.
+  
+  *Wu, Haoyu and Xu, Jingyi and Le, Hieu and Samaras, Dimitris.*
+
+  [[Paper](https://arxiv.org/pdf/2411.16720)] [Code] ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Token_Merging-orange)
+
 
 ### Quantization
 
@@ -459,6 +465,12 @@ Base modals: [Stable Diffusion](https://github.com/CompVis/stable-diffusion), [S
   *Zheng Zhan and Yushu Wu and Yifan Gong and Zichong Meng and Zhenglun Kong and Changdi Yang and Geng Yuan and Pu Zhao and Wei Niu and Yanzhi Wang.*
 
   [[Paper](https://arxiv.org/pdf/2411.01171)] [[Code](https://github.com/wuyushuwys/FMEDiffusion)] ![](https://img.shields.io/badge/Streamlined_Inference-blue) ![](https://img.shields.io/badge/Text2Video-green) ![](https://img.shields.io/badge/Streamlined_Inference-orange)
+
+- **[16] Importance-based Token Merging for Diffusion Models**, arXiv 2024.
+  
+  *Wu, Haoyu and Xu, Jingyi and Le, Hieu and Samaras, Dimitris.*
+
+  [[Paper](https://arxiv.org/pdf/2411.16720)] [Code] ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Token_Merging-orange)
 
 
 ### Training-free Diffusion Transformer Acceleration
