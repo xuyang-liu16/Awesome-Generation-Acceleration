@@ -138,7 +138,7 @@
   
   *Smith, Ethan and Saxena, Nayan and Saha, Aninda.*
 
-  [[Paper](https://arxiv.org/pdf/2402.13573)] [Code(https://github.com/ethansmith2000/ImprovedTokenMerge)] ![](https://img.shields.io/badge/ToDo-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Token_Merging-orange)
+  [[Paper](https://arxiv.org/pdf/2402.13573)] [[Code](https://github.com/ethansmith2000/ImprovedTokenMerge)] ![](https://img.shields.io/badge/ToDo-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Token_Merging-orange)
 
 - **[10] Turbo: Informativity-Driven Acceleration Plug-In for Vision-Language Models**, ECCV 2024.
   
@@ -446,7 +446,7 @@ Base modals: [Stable Diffusion](https://github.com/CompVis/stable-diffusion), [S
   
   *Smith, Ethan and Saxena, Nayan and Saha, Aninda.*
 
-  [[Paper](https://arxiv.org/pdf/2402.13573)] [Code(https://github.com/ethansmith2000/ImprovedTokenMerge)] ![](https://img.shields.io/badge/ToDo-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Token_Merging-orange)
+  [[Paper](https://arxiv.org/pdf/2402.13573)] [[Code](https://github.com/ethansmith2000/ImprovedTokenMerge)] ![](https://img.shields.io/badge/ToDo-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Token_Merging-orange)
 
 - **[13] Turbo: Informativity-Driven Acceleration Plug-In for Vision-Language Models**, ECCV 2024.
   
