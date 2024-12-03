@@ -26,7 +26,7 @@
 
 ## 📚 <span id="head1"> *Contents* </span>
 
-- Awesome Generation Acceleration
+- [Awesome Generation Acceleration](#README.md)
   - [Fast Sampling](#fast-sampling)
   - [Pruning](#pruning)
   - [Quantization](#quantization)
@@ -34,6 +34,7 @@
   - [Cache Mechanism](#cache-mechanism)
   - [Deployment Optimization](#deployment-optimization)
   - [Others](#others)
+- [Training-free Generation Acceleration](#TRAIN-FREE.md)
     
  
 ## 💬 <span id="head1"> *Keywords* </span>
