@@ -34,10 +34,7 @@
   - [Cache Mechanism](#cache-mechanism)
   - [Deployment Optimization](#deployment-optimization)
   - [Others](#others)
-- Training-free Generation Acceleration
-  - [Stable Diffusion](#Training-free-Stable-Diffusion-Acceleration)
-  - [Diffusion Transformer](#Training-free-Diffusion-Transformer-Acceleration)
-  - [Auto-Regressive Generation](#Training-free-Auto-Regressive-Generation-Acceleration)
+    
  
 ## 💬 <span id="head1"> *Keywords* </span>
 ![](https://img.shields.io/badge/Abbreviation-blue) ![](https://img.shields.io/badge/Application-green) ![](https://img.shields.io/badge/Mechanism-orange) 
