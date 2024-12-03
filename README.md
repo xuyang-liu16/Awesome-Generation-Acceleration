@@ -10,7 +10,7 @@
 [![Maintenance](https://img.shields.io/badge/maintained%3F-yes-green.svg)](https://github.com/Naereen/StrapDown.js/graphs/commit-activity)
 [![Last Commit](https://img.shields.io/github/last-commit/xuyang-liu16/Awesome-Diffusion-Acceleration.svg?style=flat&color=orange)](https://github.com/xuyang-liu16/Awesome-Diffusion-Acceleration)
 [![GitHub](https://img.shields.io/github/stars/xuyang-liu16/Awesome-Generation-Acceleration.svg?style=social)](https://github.com/xuyang-liu16/Awesome-Generation-Acceleration.git)  
-
+👐👐 If you have any suggestions or would like to contribute to this repository, feel free to email me at `liuxuyang@stu.scu.edu.cn`! 👐👐
 
 </p>
 
@@ -564,9 +564,3 @@ Base modals: [Anole](https://github.com/GAIR-NLP/anole) and [Lumina-mGPT](https:
   *Yao Teng and Han Shi and Xian Liu and Xuefei Ning and Guohao Dai and Yu Wang and Zhenguo Li and Xihui Liu.*
 
   [[Paper](https://arxiv.org/pdf/2410.01699)] [Code] ![](https://img.shields.io/badge/SJD-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Parallel_Decoding_Mechanism-orange)
-
-
-
-
-## 💌 <span id="head1"> *Contact* </span>
-For any question, please email `liuxuyang@stu.scu.edu.cn`.
