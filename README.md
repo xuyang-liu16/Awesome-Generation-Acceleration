@@ -1,6 +1,6 @@
 <div align=center>
 
-# Awesome-Generation-Acceleration
+# 🎨 Awesome Generation Acceleration 🚀
 
 <p>
 
