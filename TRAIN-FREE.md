@@ -6,6 +6,13 @@
 
 </div>
 
+## 📚 <span id="head1"> *Contents* </span>
+
+- Training-free Generation Acceleration
+  - [Stable Diffusion](#Training-free-Stable-Diffusion-Acceleration)
+  - [Diffusion Transformer](#Training-free-Diffusion-Transformer-Acceleration)
+  - [Auto-Regressive Generation](#Training-free-Auto-Regressive-Generation-Acceleration)
+
 
 ### Training-free Stable Diffusion Acceleration
 Base modals: [Stable Diffusion](https://github.com/CompVis/stable-diffusion), [Stable Video Diffusion](https://github.com/Stability-AI/generative-models) and [Text2Video-Zero](https://github.com/Picsart-AI-Research/Text2Video-Zero).
