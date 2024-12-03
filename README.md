@@ -10,7 +10,7 @@
 [![Maintenance](https://img.shields.io/badge/maintained%3F-yes-green.svg)](https://github.com/Naereen/StrapDown.js/graphs/commit-activity)
 [![Last Commit](https://img.shields.io/github/last-commit/xuyang-liu16/Awesome-Diffusion-Acceleration.svg?style=flat&color=orange)](https://github.com/xuyang-liu16/Awesome-Diffusion-Acceleration)
 [![GitHub](https://img.shields.io/github/stars/xuyang-liu16/Awesome-Generation-Acceleration.svg?style=social)](https://github.com/xuyang-liu16/Awesome-Generation-Acceleration.git)  
-👐👐 If you have any suggestions or would like to contribute to this repository, feel free to email me at `liuxuyang@stu.scu.edu.cn`! 👐👐
+👐👐 If you would like to contribute to this repository, feel free to email me at `liuxuyang@stu.scu.edu.cn`! 👐👐
 
 </p>
 
