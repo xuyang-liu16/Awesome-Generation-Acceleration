@@ -1,6 +1,6 @@
 <div align=center>
 
-# 𝙰𝚠𝚎𝚜𝚘𝚖𝚎 𝙶𝚎𝚗𝚎𝚛𝚊𝚝𝚒𝚘𝚗 𝙰𝚌𝚌𝚎𝚕𝚎𝚛𝚊𝚝𝚒𝚘𝚗
+# Awesome-Generation-Acceleration
 
 <p>
 
@@ -385,9 +385,9 @@
 
 <div align=center>
 
-# 𝚃𝚛𝚊𝚒𝚗𝚒𝚗𝚐-𝚏𝚛𝚎𝚎 𝙶𝚎𝚗𝚎𝚛𝚊𝚝𝚒𝚘𝚗 𝙰𝚌𝚌𝚎𝚕𝚎𝚛𝚊𝚝𝚒𝚘𝚗
+# Training-free Generation Acceleration
 
-:loudspeaker: 𝙲𝚘𝚕𝚕𝚎𝚌𝚝𝚒𝚘𝚗 𝚘𝚏 𝙰𝚠𝚎𝚜𝚘𝚖𝚎 𝚃𝚛𝚊𝚒𝚗𝚒𝚗𝚐-𝚏𝚛𝚎𝚎 𝙶𝚎𝚗𝚎𝚛𝚊𝚝𝚒𝚘𝚗 𝙰𝚌𝚌𝚎𝚕𝚎𝚛𝚊𝚝𝚒𝚘𝚗 𝚁𝚎𝚜𝚘𝚞𝚛𝚌𝚎𝚜.
+:loudspeaker: Collections of Awesome Training-free Generation Acceleration Resources.
 
 </div>
 
