@@ -164,6 +164,18 @@
 
   [[Paper](https://arxiv.org/pdf/2411.16720)] [Code] ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Token_Merging-orange)
 
+- **[14] HeadRouter: A Training-free Image Editing Framework for MM-DiTs by Adaptively Routing Attention Heads**, arXiv 2024.
+
+  *Yu Xu and Fan Tang and Juan Cao and Yuxin Zhang and Xiaoyu Kong and Jintao Li and Oliver Deussen and Tong-Yee Lee.*
+  
+  [[Paper](https://arxiv.org/pdf/2411.15034)] [[Code](https://github.com/ICTMCG/HeadRouter)] ![](https://img.shields.io/badge/HeadRouter-blue) ![](https://img.shields.io/badge/Image_Editing-green) ![](https://img.shields.io/badge/Head_Prunning-orange)
+
+- **[15] Stable Flow: Vital Layers for Training-Free Image Editing**, arXiv 2024.
+
+  *Omri Avrahami and Or Patashnik and Ohad Fried and Egor Nemchinov and Kfir Aberman and Dani Lischinski and Daniel Cohen-Or.*
+  
+  [[Paper](https://arxiv.org/pdf/2411.14430)] [[Code](https://omriavrahami.com/stable-flow/)] ![](https://img.shields.io/badge/Stable_Flow-blue) ![](https://img.shields.io/badge/Image_Editing-green) ![](https://img.shields.io/badge/Layer_Prunning-orange)
+  
 
 ### Quantization
 
@@ -324,6 +336,13 @@
   *Guanjie Chen and Xinyu Zhao and Yucheng Zhou and Tianlong Chen and Cheng Yu.*
   
   [[Paper](https://arxiv.org/pdf/2411.17616)] [[Code](https://github.com/OpenSparseLLMs/Skip-DiT)] ![](https://img.shields.io/badge/Skip_DiT-blue) ![](https://img.shields.io/badge/Text2Video-green) ![](https://img.shields.io/badge/Cache_Mechanism-orange)
+
+- **[14] MD-DiT: Step-aware Mixture-of-Depths for Efficient Diffusion Transformers**, NeurIPSw 2024.
+
+  *Mingzhu Shen, Pengtao Chen, Peng Ye, Guoxuan Xia, Tao Chen, Christos-Savvas Bouganis, Yiren Zhao.*
+
+  [[Paper](https://openreview.net/forum?id=1jWhiakK7N)] [Code] ![](https://img.shields.io/badge/MD-DiT-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Cache_Mechanism-orange)
+
 
 
    
@@ -517,6 +536,23 @@ Base modals: [DiT-XL](https://github.com/facebookresearch/DiT) for Image Generat
   
   [[Paper](https://arxiv.org/pdf/2411.02397)] [[Code](https://github.com/AdaCache-DiT/AdaCache)] ![](https://img.shields.io/badge/AdaCache-blue) ![](https://img.shields.io/badge/Text2Video-green) ![](https://img.shields.io/badge/Cache_Mechanism-orange)
 
+- **[8] HeadRouter: A Training-free Image Editing Framework for MM-DiTs by Adaptively Routing Attention Heads**, arXiv 2024.
+
+  *Yu Xu and Fan Tang and Juan Cao and Yuxin Zhang and Xiaoyu Kong and Jintao Li and Oliver Deussen and Tong-Yee Lee.*
+  
+  [[Paper](https://arxiv.org/pdf/2411.15034)] [[Code](https://github.com/ICTMCG/HeadRouter)] ![](https://img.shields.io/badge/HeadRouter-blue) ![](https://img.shields.io/badge/Image_Editing-green) ![](https://img.shields.io/badge/Head_Prunning-orange)
+
+- **[9] Stable Flow: Vital Layers for Training-Free Image Editing**, arXiv 2024.
+
+  *Omri Avrahami and Or Patashnik and Ohad Fried and Egor Nemchinov and Kfir Aberman and Dani Lischinski and Daniel Cohen-Or.*
+  
+  [[Paper](https://arxiv.org/pdf/2411.14430)] [[Code](https://omriavrahami.com/stable-flow/)] ![](https://img.shields.io/badge/Stable_Flow-blue) ![](https://img.shields.io/badge/Image_Editing-green) ![](https://img.shields.io/badge/Layer_Prunning-orange)
+
+- **[10] MD-DiT: Step-aware Mixture-of-Depths for Efficient Diffusion Transformers**, NeurIPSw 2024.
+
+  *Mingzhu Shen, Pengtao Chen, Peng Ye, Guoxuan Xia, Tao Chen, Christos-Savvas Bouganis, Yiren Zhao.*
+
+  [[Paper](https://openreview.net/forum?id=1jWhiakK7N)] [Code] ![](https://img.shields.io/badge/MD-DiT-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Cache_Mechanism-orange)
 
 
 
