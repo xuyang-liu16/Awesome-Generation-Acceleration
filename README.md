@@ -33,7 +33,6 @@
   - [Distillation](#distillation)
   - [Cache Mechanism](#cache-mechanism)
   - [Deployment Optimization](#deployment-optimization)
-  - [Others](#others)
 - [Training-free Generation Acceleration](TRAIN-FREE.md)
     
  
@@ -377,13 +376,4 @@
   *Zheng Zhan and Yushu Wu and Yifan Gong and Zichong Meng and Zhenglun Kong and Changdi Yang and Geng Yuan and Pu Zhao and Wei Niu and Yanzhi Wang.*
 
   [[Paper](https://arxiv.org/pdf/2411.01171)] [[Code](https://github.com/wuyushuwys/FMEDiffusion)] ![](https://img.shields.io/badge/Streamlined_Inference-blue) ![](https://img.shields.io/badge/Text2Video-green) ![](https://img.shields.io/badge/Streamlined_Inference-orange)
-
-  
-### Others
-
-- **[1] Efficient Diffusion Transformer with Step-wise Dynamic Attention Mediators**, ECCV 2024.
-
-  *Yifan Pu and Zhuofan Xia and Jiayi Guo and Dongchen Han and Qixiu Li and Duo Li and Yuhui Yuan and Ji Li and Yizeng Han and Shiji Song and Gao Huang and Xiu Li.*
-
-  [[Paper](https://arxiv.org/pdf/2408.05710)] [[Code](https://github.com/LeapLabTHU/Attention-Mediators)] ![](https://img.shields.io/badge/Attention_Mediators-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Model_Optimization-orange)
 
