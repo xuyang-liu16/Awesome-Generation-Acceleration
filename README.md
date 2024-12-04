@@ -262,7 +262,7 @@
   
 ### Cache Mechanism
 
-- **[1] Faster Diffusion: Rethinking the Role of UNet Encoder in Diffusion Models**, arXiv 2023.
+- **[1] Faster Diffusion: Rethinking the Role of UNet Encoder in Diffusion Models**, NeurIPS 202４.
   
   *Li, Senmao and Hu, Taihang and Khan, Fahad Shahbaz and Li, Linxuan and Yang, Shiqi and Wang, Yaxing and Cheng, Ming-Ming and Yang, Jian.*
 
