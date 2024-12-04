@@ -174,6 +174,12 @@
   
   [[Paper](https://arxiv.org/pdf/2411.14430)] [[Code](https://omriavrahami.com/stable-flow/)] ![](https://img.shields.io/badge/Stable_Flow-blue) ![](https://img.shields.io/badge/Image_Editing-green) ![](https://img.shields.io/badge/Layer_Prunning-orange)
   
+- **[16] TinyFusion: Diffusion Transformers Learned Shallow**, arXiv 2024.
+
+  *Fang, Gongfan and Li, Kunjun and Ma, Xinyin and Wang, Xinchao.*
+  
+  [[Paper](https://arxiv.org/pdf/2412.01199)] [[Code](https://github.com/VainF/TinyFusion)] ![](https://img.shields.io/badge/TinyFusion-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Layer_Prunning-orange)
+    
 
 ### Quantization
 
