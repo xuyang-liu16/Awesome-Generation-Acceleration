@@ -385,3 +385,16 @@
 
   [[Paper](https://arxiv.org/abs/2412.02962)] [Code] ![](https://img.shields.io/badge/PCPP-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Patch_Parallelism-orange)
 
+
+## 📌 Citation
+
+Please consider giving a star ⭐ and citing 📝 this repository if you find it useful.
+
+```bibtex
+@misc{xuyang2024acceleration,
+  author={Xuyang Liu},
+  title = {Awesome-Generation-Acceleration},
+  year = {2024},
+  url = {https://github.com/xuyang-liu16/Awesome-Generation-Acceleration},
+}
+```
