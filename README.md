@@ -19,7 +19,7 @@
 
 ## 🔥 <span id="head1"> *News* </span>
 
-* `2024/12/05` 💥💥 We introduce an new branch of "[Training-free Generation Acceleration](TRAIN-FREE.md)", offering comprehensive methods for accelerating Stable Diffusion, Diffusion Transformers, and Auto-Regressive models without training!
+* `2024/12/05` 💥💥 We introduce "[Training-free Generation Acceleration](TRAIN-FREE.md)", offering comprehensive methods for accelerating Stable Diffusion, Diffusion Transformers, and Auto-Regressive models without training!
 
 * `2024/10/12` 🚀🚀 We release our work [ToCa](https://arxiv.org/abs/2410.05317) about accelerating Diffusion Transformers (DiTs) for FREE, achieving nearly lossless acceleration of **2.36×** on OpenSora! [Code](https://github.com/Shenyi-Z/ToCa) is now available!
 
