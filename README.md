@@ -80,6 +80,12 @@
   *Daniel Gallo Fernández, Rǎzvan-Andrei Matişan, Alejandro Monroy Muñoz, Ana-Maria Vasilcoiu, Janusz Partyka, Tin Hadži Veljković, Metod Jazbec.*
 
   [[Paper](https://arxiv.org/abs/2410.09633)] [Code] ![](https://img.shields.io/badge/DuoDiff-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Exiting_by_Networks-orange)
+
+- **[7] SwiftEdit: Lightning Fast Text-Guided Image Editing via One-Step Diffusion**, arXiv 2024.
+  
+  *Trong-Tung Nguyen and Quang Nguyen and Khoi Nguyen and Anh Tran and Cuong Pham.*
+
+  [[Paper](https://arxiv.org/abs/2412.04301)] [Code] ![](https://img.shields.io/badge/SwiftEdit-blue) ![](https://img.shields.io/badge/Image_Editing-green) ![](https://img.shields.io/badge/One_Step_Diffusion-orange)
   
   
 
@@ -384,6 +390,7 @@
   *XiuYu Zhang and Zening Luo and Michelle E. Lu.*
 
   [[Paper](https://arxiv.org/abs/2412.02962)] [Code] ![](https://img.shields.io/badge/PCPP-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Patch_Parallelism-orange)
+
 
 
 ## 📌 Citation
