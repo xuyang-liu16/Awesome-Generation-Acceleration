@@ -163,30 +163,37 @@
 
   [[Paper](https://arxiv.org/abs/2410.16942)] [Code] ![](https://img.shields.io/badge/DiP_GO-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Layer_Pruning-orange)
 
-- **[13] Importance-based Token Merging for Diffusion Models**, arXiv 2024.
+- **[13] U-DiTs: Downsample Tokens in U-Shaped Diffusion Transformers**, NeurIPS 2024.
+
+  *Yuchuan Tian and Zhijun Tu and Hanting Chen and Jie Hu and Chao Xu and Yunhe Wang.*
+  
+  [[Paper](https://arxiv.org/abs/2405.02730)] [[Code](https://github.com/YuchuanTian/U-DiT)] ![](https://img.shields.io/badge/U_DiTs-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Token_Compression-orange)
+
+- **[14] Importance-based Token Merging for Diffusion Models**, arXiv 2024.
   
   *Wu, Haoyu and Xu, Jingyi and Le, Hieu and Samaras, Dimitris.*
 
   [[Paper](https://arxiv.org/abs/2411.16720)] [Code] ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Token_Merging-orange)
 
-- **[14] HeadRouter: A Training-free Image Editing Framework for MM-DiTs by Adaptively Routing Attention Heads**, arXiv 2024.
+- **[15] HeadRouter: A Training-free Image Editing Framework for MM-DiTs by Adaptively Routing Attention Heads**, arXiv 2024.
 
   *Yu Xu and Fan Tang and Juan Cao and Yuxin Zhang and Xiaoyu Kong and Jintao Li and Oliver Deussen and Tong-Yee Lee.*
   
   [[Paper](https://arxiv.org/abs/2411.15034)] [[Code](https://github.com/ICTMCG/HeadRouter)] ![](https://img.shields.io/badge/HeadRouter-blue) ![](https://img.shields.io/badge/Image_Editing-green) ![](https://img.shields.io/badge/Head_Prunning-orange)
 
-- **[15] Stable Flow: Vital Layers for Training-Free Image Editing**, arXiv 2024.
+- **[16] Stable Flow: Vital Layers for Training-Free Image Editing**, arXiv 2024.
 
   *Omri Avrahami and Or Patashnik and Ohad Fried and Egor Nemchinov and Kfir Aberman and Dani Lischinski and Daniel Cohen-Or.*
   
   [[Paper](https://arxiv.org/abs/2411.14430)] [[Code](https://omriavrahami.com/stable-flow/)] ![](https://img.shields.io/badge/Stable_Flow-blue) ![](https://img.shields.io/badge/Image_Editing-green) ![](https://img.shields.io/badge/Layer_Prunning-orange)
   
-- **[16] TinyFusion: Diffusion Transformers Learned Shallow**, arXiv 2024.
+- **[17] TinyFusion: Diffusion Transformers Learned Shallow**, arXiv 2024.
 
   *Fang, Gongfan and Li, Kunjun and Ma, Xinyin and Wang, Xinchao.*
   
   [[Paper](https://arxiv.org/abs/2412.01199)] [[Code](https://github.com/VainF/TinyFusion)] ![](https://img.shields.io/badge/TinyFusion-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Layer_Prunning-orange)
-    
+
+
 
 ### Quantization
 
