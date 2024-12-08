@@ -193,6 +193,12 @@
   
   [[Paper](https://arxiv.org/abs/2412.01199)] [[Code](https://github.com/VainF/TinyFusion)] ![](https://img.shields.io/badge/TinyFusion-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Layer_Prunning-orange)
 
+- **[18] Diffusion Model Compression for Image-to-Image Translation**, ACCV 2024.
+
+  *Kim, Geonung and Kim, Beomsu and Park, Eunhyeok and Cho, Sunghyun.*
+  
+  [[Paper](https://arxiv.org/abs/2401.17547)] [[Code](https://github.com/KIMGEONUNG/ID-compression)] ![](https://img.shields.io/badge/ID_Compression-blue) ![](https://img.shields.io/badge/Image2Image-green) ![](https://img.shields.io/badge/Layer_Prunning-orange) ![](https://img.shields.io/badge/Time_Step_Optimization-orange) 
+
 
 
 ### Quantization
