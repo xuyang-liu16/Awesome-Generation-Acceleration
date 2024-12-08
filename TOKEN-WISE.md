@@ -72,3 +72,19 @@
   *Wu, Haoyu and Xu, Jingyi and Le, Hieu and Samaras, Dimitris.*
 
   [[Paper](https://arxiv.org/abs/2411.16720)] [Code] ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Token_Merging-orange)
+
+  Token Caching for Diffusion Transformer Acceleration  , arXiv 2024.
+  https://arxiv.org/abs/2409.18523
+
+  Accelerating Diffusion Transformers with Token-wise Feature Caching
+  https://arxiv.org/abs/2410.05317
+
+  Accelerating Diffusion Transformers with Token-wise Feature Caching ,ICLR 2025
+  https://openreview.net/forum?id=yYZbZGo4ei
+
+
+  DiTFastAttn: Attention Compression for Diffusion Transformer Models , arXiv 2024.
+  https://arxiv.org/abs/2406.08552
+  
+
+
