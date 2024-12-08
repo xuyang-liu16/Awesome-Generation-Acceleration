@@ -85,6 +85,26 @@
 
   DiTFastAttn: Attention Compression for Diffusion Transformer Models , arXiv 2024.
   https://arxiv.org/abs/2406.08552
-  
+
+  DiffRate : Differentiable Compression Rate for Efficient Vision Transformers,ICCV 2023
+  https://arxiv.org/abs/2305.17997
+
+  DeepCache: Accelerating Diffusion Models for Free,CVPR2024
+  https://arxiv.org/abs/2312.00858
+
+  FORA: Fast-Forward Caching in Diffusion Transformer Acceleration
+  https://arxiv.org/abs/2407.01425
+
+  ENAT: Rethinking Spatial-temporal Interactions in Token-based Image Synthesis
+  https://arxiv.org/abs/2411.06959
+
+  LinFusion: 1 GPU, 1 Minute, 16K Image
+  https://arxiv.org/abs/2409.02097
+
+  ImageFolder: Autoregressive Image Generation with Folded Tokens
+  https://arxiv.org/abs/2410.01756
+
+  FRDiff : Feature Reuse for Universal Training-free Acceleration of Diffusion Models,ECCV2024
+  https://arxiv.org/abs/2312.03517
 
 
