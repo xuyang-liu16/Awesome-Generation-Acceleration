@@ -192,3 +192,9 @@ Base modals: [Anole](https://github.com/GAIR-NLP/anole) and [Lumina-mGPT](https:
   *Yefei He and Feng Chen and Yuanyu He and Shaoxuan He and Hong Zhou and Kaipeng Zhang and Bohan Zhuang.*
 
   [[Paper](https://arxiv.org/abs/2412.04062)] [Code] ![](https://img.shields.io/badge/ZipAR-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Parallel_Decoding_Mechanism-orange)
+
+- **[3] CoDe: Collaborative Decoding Makes Visual Auto-Regressive Modeling Efficient**, arXiv 2024.
+  
+  *Zigeng Chen and Xinyin Ma and Gongfan Fang and Xinchao Wang.*
+  
+  [[Paper](https://arxiv.org/abs/2411.17787)] [[Code](https://github.com/czg1225/CoDe)] ![](https://img.shields.io/badge/CoDe-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Parallel_Decoding_Mechanism-orange)
