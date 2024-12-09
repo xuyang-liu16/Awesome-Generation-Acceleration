@@ -179,7 +179,7 @@ Base modals: [DiT-XL](https://github.com/facebookresearch/DiT) for Image Generat
 
 
 ###  Training-free Auto-Regressive Generation Acceleration
-Base modals: [Anole](https://github.com/GAIR-NLP/anole) and [Lumina-mGPT](https://github.com/Alpha-VLLM/Lumina-mGPT) for Text2Image.
+Base modals: [Anole](https://github.com/GAIR-NLP/anole), [Lumina-mGPT](https://github.com/Alpha-VLLM/Lumina-mGPT) and [VAR](https://github.com/FoundationVision/VAR) for Text2Image.
 
 - **[1] Accelerating Auto-regressive Text-to-Image Generation with Training-free Speculative Jacobi Decoding**, arXiv 2024.
 
