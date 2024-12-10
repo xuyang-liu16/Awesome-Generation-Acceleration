@@ -278,7 +278,13 @@
   
   *Weilun Feng and Chuanguang Yang and Zhulin An and Libo Huang and Boyu Diao and Fei Wang and Yongjun Xu.*
   
-  [[Paper](https://arxiv.org/abs/2410.07679)] [[Code](https://github.com/cantbebetter2/RDD)] ![](https://img.shields.io/badge/RDD-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badgeStep_Distillation-orange)
+  [[Paper](https://arxiv.org/abs/2410.07679)] [[Code](https://github.com/cantbebetter2/RDD)] ![](https://img.shields.io/badge/RDD-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Step_Distillation-orange)
+
+- **[6] Accelerating Video Diffusion Models via Distribution Matching**, arXiv 2024.
+  
+  *Yuanzhi Zhu and Hanshu Yan and Huan Yang and Kai Zhang and Junnan Li.*
+  
+  [[Paper](https://arxiv.org/abs/2412.05899)] [Code] ![](https://img.shields.io/badge/AnimateDiff-blue) ![](https://img.shields.io/badge/Video_Generation-green) ![](https://img.shields.io/badge/Step_Distillation-orange)
 
   
 ### Cache Mechanism
@@ -287,7 +293,7 @@
   
   *Li, Senmao and Hu, Taihang and Khan, Fahad Shahbaz and Li, Linxuan and Yang, Shiqi and Wang, Yaxing and Cheng, Ming-Ming and Yang, Jian.*
 
-  [[Paper](https://arxiv.org/abs/2312.09608)] [[Code](https://github.com/hutaiHang/Faster-Diffusion)] ![](https://img.shields.io/badge/Faster_Diffusion-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Personalized_Generation-green) ![](https://img.shields.io/badge/Text2Video-green) ![](https://img.shields.io/badge/Cache_Mechanism-orange)
+  [[Paper](https://arxiv.org/abs/2312.09608)] [Code](https://github.com/hutaiHang/Faster-Diffusion)] ![](https://img.shields.io/badge/Faster_Diffusion-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Personalized_Generation-green) ![](https://img.shields.io/badge/Text2Video-green) ![](https://img.shields.io/badge/Cache_Mechanism-orange)
 
 - **[2] DeepCache: Accelerating Diffusion Models for Free**, CVPR 2024.
   
