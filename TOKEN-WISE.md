@@ -55,7 +55,7 @@
   *Wu, Haoyu and Xu, Jingyi and Le, Hieu and Samaras, Dimitris.*  
   [[Paper](https://arxiv.org/abs/2411.16720)] [Code] ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Token_Merging-orange)
 
-- **[12] CAT Pruning: Cluster-Aware Token Pruning For Text-to-Image Diffusion Models**, OpenReview 2024.  
+- **[12] CAT Pruning: Cluster-Aware Token Pruning For Text-to-Image Diffusion Models**, AFM 2024.  
   *Xinle Cheng, Zhuoming Chen, Zhihao Jia.*  
   [[Paper](https://openreview.net/forum?id=bloLh21WY6)] [Code] ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
