@@ -291,6 +291,12 @@
   
   [[Paper](https://arxiv.org/abs/2412.05899)] [Code] ![](https://img.shields.io/badge/AnimateDiff-blue) ![](https://img.shields.io/badge/Video_Generation-green) ![](https://img.shields.io/badge/Step_Distillation-orange)
 
+- **[7] From Slow Bidirectional to Fast Causal Video Generators**, arXiv 2024.
+  
+  *Yin, Tianwei and Zhang, Qiang and Zhang, Richard and Freeman, William T and Durand, Fredo and Shechtman, Eli and Huang, Xun.*
+  
+  [[Paper](https://arxiv.org/abs/2412.07772)] [[Code](https://causvid.github.io/)] ![](https://img.shields.io/badge/DMD-blue) ![](https://img.shields.io/badge/Video_Generation-green) ![](https://img.shields.io/badge/Distribution_Matching_Distillation-orange)
+
   
 ### Cache Mechanism
 
