@@ -297,6 +297,12 @@
   
   [[Paper](https://arxiv.org/abs/2412.07772)] [[Code](https://causvid.github.io/)] ![](https://img.shields.io/badge/DMD-blue) ![](https://img.shields.io/badge/Video_Generation-green) ![](https://img.shields.io/badge/Distribution_Matching_Distillation-orange)
 
+- **[8] SnapGen: Taming High-Resolution Text-to-Image Models for Mobile Devices with Efficient Architectures and Training**, arXiv 2024.
+  
+  *Dongting Hu and Jierun Chen and Xijie Huang and Huseyin Coskun and Arpit Sahni and Aarush Gupta and Anujraaj Goyal and Dishani Lahiri and Rajesh Singh and Yerlan Idelbayev and Junli Cao and Yanyu Li and Kwang-Ting Cheng and S. -H. Gary Chan and Mingming Gong and Sergey Tulyakov and Anil Kag and Yanwu Xu and Jian Ren.*
+  
+  [[Paper](https://arxiv.org/abs/2412.09619）] [Code] ![](https://img.shields.io/badge/SnapGen-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Step_Distillation-orange)
+
   
 ### Cache Mechanism
 
