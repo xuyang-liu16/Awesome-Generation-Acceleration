@@ -301,7 +301,14 @@
   
   *Dongting Hu and Jierun Chen and Xijie Huang and Huseyin Coskun and Arpit Sahni and Aarush Gupta and Anujraaj Goyal and Dishani Lahiri and Rajesh Singh and Yerlan Idelbayev and Junli Cao and Yanyu Li and Kwang-Ting Cheng and S. -H. Gary Chan and Mingming Gong and Sergey Tulyakov and Anil Kag and Yanwu Xu and Jian Ren.*
   
-  [[Paper](https://arxiv.org/abs/2412.09619）] [Code] ![](https://img.shields.io/badge/SnapGen-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Step_Distillation-orange)
+  [[Paper](https://arxiv.org/abs/2412.09619)] [Code] ![](https://img.shields.io/badge/SnapGen-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Step_Distillation-orange)
+
+- **[9] Inference-Time Diffusion Model Distillation**, arXiv 2024.
+  
+  *Geon Yeong Park and Sang Wan Lee and Jong Chul Ye.*
+  
+  [[Paper](https://arxiv.org/abs/2412.08871)] [[Code](https://github.com/geonyeong-park/inference_distillation)] ![](https://img.shields.io/badge/Distillation++-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Inference_Distillation-orange)
+
 
   
 ### Cache Mechanism
