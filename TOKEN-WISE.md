@@ -78,3 +78,9 @@
   *Shuning Chang and Pichao Wang and Jiasheng Tang and Yi Yang.*
   
   [[Paper](https://arxiv.org/abs/2412.06028)] [[Code](https://github.com/changsn/FlexDiT)] ![](https://img.shields.io/badge/FlexDiT-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Text2Video-green) ![](https://img.shields.io/badge/Token_Prunning-orange)
+
+- **[13] AsymRnR: Video Diffusion Transformers Acceleration with Asymmetric Reduction and Restoration**, arXiv 2024.
+
+  *AsymRnR: Video Diffusion Transformers Acceleration with Asymmetric Reduction and Restoration.*
+  
+  [[Paper](https://arxiv.org/abs/2412.11706)] [Code] ![](https://img.shields.io/badge/AsymRnR-blue) ![](https://img.shields.io/badge/Text2Video-green) ![](https://img.shields.io/badge/Token_Reduction-orange)
