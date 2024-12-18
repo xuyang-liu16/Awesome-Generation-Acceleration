@@ -211,6 +211,9 @@
   
   [[Paper](https://arxiv.org/abs/2412.11706)] [Code] ![](https://img.shields.io/badge/AsymRnR-blue) ![](https://img.shields.io/badge/Text2Video-green) ![](https://img.shields.io/badge/Token_Reduction-orange)
 
+- **[21] ToMA: Token Merging with Attention For Diffusion Models**, OpenReview 2024.
+  
+  [[Paper](https://openreview.net/forum?id=xhtqgW5b93)] [[Code](https://openreview.net/forum?id=xhtqgW5b93)] ![](https://img.shields.io/badge/ToMA-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Token_Merging-orange)
   
 
 ### Quantization
