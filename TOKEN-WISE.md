@@ -90,3 +90,7 @@
   *Xinle Cheng, Zhuoming Chen, Zhihao Jia.*
   
   [[Paper](https://openreview.net/pdf/bf470617f541635cbde87fcc0ba3fdbddcef3db7.pdf)] [[Code](https://github.com/ada-cheng/CAT-Pruning)] ![](https://img.shields.io/badge/CAT_Pruning-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Token_Pruning-orange)
+
+- **[15] ToMA: Token Merging with Attention For Diffusion Models**, OpenReview 2024.
+  
+  [[Paper](https://openreview.net/forum?id=xhtqgW5b93)] [[Code](https://openreview.net/forum?id=xhtqgW5b93)] ![](https://img.shields.io/badge/ToMA-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Token_Merging-orange)
