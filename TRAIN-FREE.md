@@ -113,6 +113,9 @@ Base modals: [Stable Diffusion](https://github.com/CompVis/stable-diffusion), [S
 
   [[Paper](https://arxiv.org/abs/2411.16720)] [Code] ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Token_Merging-orange)
 
+- **[17] ToMA: Token Merging with Attention For Diffusion Models**, OpenReview 2024.
+  
+  [[Paper](https://openreview.net/forum?id=xhtqgW5b93)] [[Code](https://openreview.net/forum?id=xhtqgW5b93)] ![](https://img.shields.io/badge/ToMA-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Token_Merging-orange)
 
 ### Training-free Diffusion Transformer Acceleration
 Base modals: [DiT-XL](https://github.com/facebookresearch/DiT) for Image Generation, [PIXART-α](https://github.com/PixArt-alpha/PixArt-alpha) for Text2Image, [Open-Sora](https://github.com/hpcaitech/Open-Sora) and [Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan) for Text2Video.
@@ -176,7 +179,10 @@ Base modals: [DiT-XL](https://github.com/facebookresearch/DiT) for Image Generat
 
   [[Paper](https://openreview.net/forum?id=1jWhiakK7N)] [Code] ![](https://img.shields.io/badge/MD_DiT-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Cache_Mechanism-orange)
 
-
+- **[11] ToMA: Token Merging with Attention For Diffusion Models**, OpenReview 2024.
+  
+  [[Paper](https://openreview.net/forum?id=xhtqgW5b93)] [[Code](https://openreview.net/forum?id=xhtqgW5b93)] ![](https://img.shields.io/badge/ToMA-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Token_Merging-orange)
+  
 
 ###  Training-free Auto-Regressive Generation Acceleration
 Base modals: [Anole](https://github.com/GAIR-NLP/anole), [Lumina-mGPT](https://github.com/Alpha-VLLM/Lumina-mGPT) and [VAR](https://github.com/FoundationVision/VAR) for Text2Image.
