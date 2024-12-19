@@ -407,7 +407,11 @@
 
   [[Paper](https://openreview.net/forum?id=1jWhiakK7N)] [Code] ![](https://img.shields.io/badge/MD_DiT-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Cache_Mechanism-orange)
 
+- **[15] E-CAR: Efficient Continuous Autoregressive Image Generation via Multistage Modelings**, arXiv 2024.
 
+  *Zhihang Yuan and Yuzhang Shang and Hanling Zhang and Tongcheng Fang and Rui Xie and Bingxin Xu and Yan Yan and Shengen Yan and Guohao Dai and Yu Wang.*
+
+  [[Paper](https://arxiv.org/abs/2412.14170)] [Code] ![](https://img.shields.io/badge/E-CAR-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Cache_Mechanism-orange)
 
    
 ### Deployment Optimization
