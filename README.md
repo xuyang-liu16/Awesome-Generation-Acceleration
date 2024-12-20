@@ -471,3 +471,13 @@ Please consider giving a star ⭐ and citing 📝 this repository if you find it
   url = {https://github.com/xuyang-liu16/Awesome-Generation-Acceleration},
 }
 ```
+
+## 🧑‍💻 Contribution
+
+<!-- Copy-paste in your Readme.md file -->
+
+<a href="https://github.com/xuyang-liu16/Awesome-Generation-Acceleration/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=xuyang-liu16/Awesome-Generation-Acceleration" />
+</a>
+
+### 👏 Thanks to the above contributors for this excellent work！
