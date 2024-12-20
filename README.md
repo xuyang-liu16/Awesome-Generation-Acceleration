@@ -220,7 +220,7 @@
 - **[22] KOALA:
 Empirical Lessons Toward Memory-Efficient and Fast Diffusion Models for Text-to-Image Synthesis**, NeurIPS 2024.
 
-*Youngwan Lee, Kwanyong Park, Yoorhim Cho, Yong-Ju Lee, Sung Ju Hwang*
+  *Youngwan Lee, Kwanyong Park, Yoorhim Cho, Yong-Ju Lee, Sung Ju Hwang*
   
   [[Paper](https://arxiv.org/abs/2312.04005)] [[Code](https://github.com/youngwanLEE/sdxl-koala)] ![](https://img.shields.io/badge/KOALA-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Layer_Prunning-orange) ![](https://img.shields.io/badge/Distillation_Pretraining-orange)
   
