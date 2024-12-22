@@ -474,10 +474,9 @@ Please consider giving a star ⭐ and citing 📝 this repository if you find it
 
 ## 🧑‍💻 Contribution
 
-<!-- Copy-paste in your Readme.md file -->
+👏 Thanks to these contributors for this excellent work！
 
 <a href="https://github.com/xuyang-liu16/Awesome-Generation-Acceleration/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=xuyang-liu16/Awesome-Generation-Acceleration" />
 </a>
 
-### 👏 Thanks to the above contributors for this excellent work！
