@@ -117,8 +117,16 @@ Base modals: [Stable Diffusion](https://github.com/CompVis/stable-diffusion), [S
   
   [[Paper](https://openreview.net/forum?id=xhtqgW5b93)] [[Code](https://openreview.net/forum?id=xhtqgW5b93)] ![](https://img.shields.io/badge/ToMA-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Token_Merging-orange)
 
+- **[18] Token Merging for Training-Free Semantic Binding in Text-to-Image Synthesis**, NeurIPS 2024.
+
+  *Taihang Hu and Linxuan Li and Joost van de Weijer and Hongcheng Gao and Fahad Khan and Jian Yang and Ming-Ming Cheng and Kai Wang and Yaxing Wang.*
+
+  [[Paper](https://arxiv.org/abs/2411.07132)] [[Code](https://github.com/hutaiHang/ToMe)] ![](https://img.shields.io/badge/ToMe-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Token_Merging-orange)
+  
+
 ### Training-free Diffusion Transformer Acceleration
 Base modals: [DiT-XL](https://github.com/facebookresearch/DiT) for Image Generation, [PIXART-α](https://github.com/PixArt-alpha/PixArt-alpha) for Text2Image, [Open-Sora](https://github.com/hpcaitech/Open-Sora) and [Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan) for Text2Video.
+
 - **[1] ∆-DiT: A Training-Free Acceleration Method Tailored for Diffusion Transformers**, arXiv 2024.
   
   *Chen, Pengtao and Shen, Mingzhu and Ye, Peng and Cao, Jianjian and Tu, Chongjun and Bouganis, Christos-Savvas and Zhao, Yiren and Chen, Tao.*
