@@ -217,12 +217,17 @@
   
   [[Paper](https://openreview.net/forum?id=xhtqgW5b93)] [[Code](https://openreview.net/forum?id=xhtqgW5b93)] ![](https://img.shields.io/badge/ToMA-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Token_Merging-orange)
 
-- **[22] KOALA:
-Empirical Lessons Toward Memory-Efficient and Fast Diffusion Models for Text-to-Image Synthesis**, NeurIPS 2024.
+- **[22] KOALA: Empirical Lessons Toward Memory-Efficient and Fast Diffusion Models for Text-to-Image Synthesis**, NeurIPS 2024.
 
-  *Youngwan Lee, Kwanyong Park, Yoorhim Cho, Yong-Ju Lee, Sung Ju Hwang*
+  *Youngwan Lee, Kwanyong Park, Yoorhim Cho, Yong-Ju Lee, Sung Ju Hwang.*
   
   [[Paper](https://arxiv.org/abs/2312.04005)] [[Code](https://github.com/youngwanLEE/sdxl-koala)] ![](https://img.shields.io/badge/KOALA-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Layer_Prunning-orange) ![](https://img.shields.io/badge/Distillation_Pretraining-orange)
+
+- **[23] Token Merging for Training-Free Semantic Binding in Text-to-Image Synthesis**, NeurIPS 2024.
+
+  *Taihang Hu and Linxuan Li and Joost van de Weijer and Hongcheng Gao and Fahad Khan and Jian Yang and Ming-Ming Cheng and Kai Wang and Yaxing Wang.*
+
+  [[Paper](https://arxiv.org/abs/2411.07132)] [[Code](https://github.com/hutaiHang/ToMe)] ![](https://img.shields.io/badge/ToMe-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Token_Merging-orange)
   
 
 ### Quantization
