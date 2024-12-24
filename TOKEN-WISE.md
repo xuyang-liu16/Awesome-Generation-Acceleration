@@ -100,3 +100,10 @@
   *Taihang Hu and Linxuan Li and Joost van de Weijer and Hongcheng Gao and Fahad Khan and Jian Yang and Ming-Ming Cheng and Kai Wang and Yaxing Wang.*
 
   [[Paper](https://arxiv.org/abs/2411.07132)] [[Code](https://github.com/hutaiHang/ToMe)] ![](https://img.shields.io/badge/ToMe-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Token_Merging-orange)
+
+- **[17] Layer- and Timestep-Adaptive Differentiable Token Compression Ratios for Efficient Diffusion Transformers**, arXiv 2024.
+
+  *Haoran You and Connelly Barnes and Yuqian Zhou and Yan Kang and Zhenbang Du and Wei Zhou and Lingzhi Zhang and Yotam Nitzan and Xiaoyang Liu and Zhe Lin and Eli Shechtman and Sohrab Amirghodsi and Yingyan Celine Lin.*
+  
+   [[Paper](https://arxiv.org/abs/2412.16822)] [[Code](https://github.com/GATECH-EIC/DiffRatio-MoD)] ![](https://img.shields.io/badge/DiffRatio_MoD-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Token_Pruning-orange)
+
