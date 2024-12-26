@@ -434,7 +434,7 @@
 
   *Zhihang Yuan and Yuzhang Shang and Hanling Zhang and Tongcheng Fang and Rui Xie and Bingxin Xu and Yan Yan and Shengen Yan and Guohao Dai and Yu Wang.*
 
-  [[Paper](https://arxiv.org/abs/2412.14170)] [Code] ![](https://img.shields.io/badge/E-CAR-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Cache_Mechanism-orange)
+  [[Paper](https://arxiv.org/abs/2412.14170)] [Code] ![](https://img.shields.io/badge/E_CAR-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Cache_Mechanism-orange)
 
    
 ### Deployment Optimization
