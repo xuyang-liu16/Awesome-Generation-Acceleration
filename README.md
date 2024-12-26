@@ -19,7 +19,7 @@
 
 ## 🔥 <span id="head1"> *News* </span>
 
-* `2024/12/20` 🚀🚀 Our work [ToCa](https://arxiv.org/abs/2410.05317) has achieved nearly lossless acceleration of **1.51×** on [FLUX](https://huggingface.co/spaces/black-forest-labs/FLUX.1-schnell), feel free to check the latest version of our [paper](https://arxiv.org/pdf/2410.05317#page=19)!
+* `2024/12/20` 🚀🚀 Our work [ToCa](https://arxiv.org/abs/2410.05317) has achieved nearly lossless acceleration of **1.51×** on [FLUX](https://huggingface.co/spaces/black-forest-labs/FLUX.1-schnell), feel free to check the latest version of our [paper](https://arxiv.org/pdf/2410.05317#page=19) and [Code](https://github.com/Shenyi-Z/ToCa)!
 
 * `2024/12/19` 💥💥 We introduce "[Token-wise Generation Acceleration](TOKEN-WISE.md)", offering comprehensive methods for accelerating generative models from the perspective of **tokens**!
 
