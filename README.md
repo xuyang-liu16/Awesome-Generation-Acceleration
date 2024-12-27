@@ -19,13 +19,13 @@
 
 ## 🔥 <span id="head1"> *News* </span>
 
-* `2024/12/20` 🚀🚀 Our work [ToCa](https://arxiv.org/abs/2410.05317) has achieved nearly lossless acceleration of **1.51×** on [FLUX](https://huggingface.co/spaces/black-forest-labs/FLUX.1-schnell), feel free to check the latest version of our [paper](https://arxiv.org/pdf/2410.05317#page=19) and [code](https://github.com/Shenyi-Z/ToCa)!
+* `2024/12/24` 🤗🤗 We release an open-sourse repo "[Awesome-Token-Reduction-for-Model-Compression](https://github.com/xuyang-liu16/Awesome-Token-Reduction-for-Model-Compression)", which collects recent awesome token reduction papers! Feel free to contribute your suggestions!
 
 * `2024/12/19` 💥💥 We introduce "[Token-wise Generation Acceleration](TOKEN-WISE.md)", offering comprehensive methods for accelerating generative models from the perspective of **tokens**!
 
 * `2024/12/05` 💥💥 We introduce "[Training-free Generation Acceleration](TRAIN-FREE.md)", offering comprehensive methods for accelerating Stable Diffusion, Diffusion Transformers, and Auto-Regressive models **without training**!
 
-* `2024/10/12` 🚀🚀 We release our work [ToCa](https://arxiv.org/abs/2410.05317) about accelerating Diffusion Transformers (DiTs) for FREE, achieving nearly lossless acceleration of **2.36×** on OpenSora! [Code](https://github.com/Shenyi-Z/ToCa) is now available!
+* `2024/10/12` 🚀🚀 We release our work [ToCa](https://arxiv.org/abs/2410.05317) about accelerating DiT models for FREE, which achieves nearly lossless acceleration of **1.51×** on FLUX, **1.93×** on PixArt-α, and **2.36×** on OpenSora! [Code](https://github.com/Shenyi-Z/ToCa) is now available!
 
 * `2024/07/15` 🤗🤗 We release an open-sourse repo "[Awesome-Generation-Acceleration](https://github.com/xuyang-liu16/Awesome-Generation-Acceleration)", which collects recent awesome generation accleration papers! Feel free to contribute your suggestions!
 
