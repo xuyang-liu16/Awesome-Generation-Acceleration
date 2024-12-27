@@ -40,6 +40,7 @@
   - [Cache Mechanism](#cache-mechanism)
   - [Deployment Optimization](#deployment-optimization)
 - [Training-free Generation Acceleration](TRAIN-FREE.md)
+- [Token-wise Generation Acceleration](TOKEN-WISE.md)
     
  
 ## 💬 <span id="head1"> *Keywords* </span>
