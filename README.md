@@ -399,7 +399,7 @@
 
   *Chang Zou and Xuyang Liu and Ting Liu and Siteng Huang and Linfeng Zhang.*
   
-  [[Paper](https://arxiv.org/abs/2410.05317)] [[Code](https://github.com/Shenyi-Z/ToCa)] ![](https://img.shields.io/badge/ToCa-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Text2Video-green) ![](https://img.shields.io/badge/Cache_Mechanism-orange)
+  [[Paper](https://arxiv.org/abs/2410.05317)] [[Code](https://github.com/Shenyi-Z/ToCa)] ![](https://img.shields.io/badge/ToCa-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Text2Video-green) ![](https://img.shields.io/badge/Token_Caching-orange)
 
 - **[10] FasterCache: Training-Free Video Diffusion Model Acceleration with High Quality**, arXiv 2024.
 
@@ -436,6 +436,12 @@
   *Zhihang Yuan and Yuzhang Shang and Hanling Zhang and Tongcheng Fang and Rui Xie and Bingxin Xu and Yan Yan and Shengen Yan and Guohao Dai and Yu Wang.*
 
   [[Paper](https://arxiv.org/abs/2412.14170)] [Code] ![](https://img.shields.io/badge/E_CAR-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Cache_Mechanism-orange)
+
+- **[16] Accelerating Diffusion Transformers with Dual Feature Caching**, arXiv 2024.
+
+  *Chang Zou and Evelyn Zhang and Runlin Guo and Haohang Xu and Conghui He and Xuming Hu and Linfeng Zhang.*
+  
+  [[Paper](https://arxiv.org/abs/2410.05317)] [[Code](https://github.com/Shenyi-Z/DuCa)] ![](https://img.shields.io/badge/DuCa-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Text2Video-green) ![](https://img.shields.io/badge/Token_Caching-orange)
 
    
 ### Deployment Optimization
