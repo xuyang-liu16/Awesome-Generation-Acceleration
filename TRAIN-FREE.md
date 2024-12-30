@@ -190,6 +190,12 @@ Base modals: [DiT-XL](https://github.com/facebookresearch/DiT) for Image Generat
 - **[11] ToMA: Token Merging with Attention For Diffusion Models**, OpenReview 2024.
   
   [[Paper](https://openreview.net/forum?id=xhtqgW5b93)] [[Code](https://openreview.net/forum?id=xhtqgW5b93)] ![](https://img.shields.io/badge/ToMA-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Token_Merging-orange)
+
+- **[12] Accelerating Diffusion Transformers with Dual Feature Caching**, arXiv 2024.
+
+  *Chang Zou and Evelyn Zhang and Runlin Guo and Haohang Xu and Conghui He and Xuming Hu and Linfeng Zhang.*
+  
+  [[Paper](https://arxiv.org/abs/2410.05317)] [[Code](https://github.com/Shenyi-Z/DuCa)] ![](https://img.shields.io/badge/DuCa-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Text2Video-green) ![](https://img.shields.io/badge/Token_Caching-orange)
   
 
 ###  Training-free Auto-Regressive Generation Acceleration
