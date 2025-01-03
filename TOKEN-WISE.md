@@ -113,3 +113,15 @@
   
   [[Paper](https://arxiv.org/abs/2410.05317)] [[Code](https://github.com/Shenyi-Z/DuCa)] ![](https://img.shields.io/badge/DuCa-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Text2Video-green) ![](https://img.shields.io/badge/Token_Caching-orange)
 
+- **[19] Cached Adaptive Token Merging: Dynamic Token Reduction and Redundant Computation Elimination in Diffusion Model**, arXiv 2024.
+
+  *Omid Saghatchian and Atiyeh Gh. Moghadam and Ahmad Nickabadi.*
+
+  [[Paper](https://arxiv.org/abs/2501.00946)] [[Code](https://github.com/omidiu/ca_tome)] ![](https://img.shields.io/badge/DaTo-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Token_Pruning-orange) ![](https://img.shields.io/badge/Token_Caching-orange)
+
+- **[20] Token Pruning for Caching Better: 9 Times Acceleration on Stable Diffusion for Free**, arXiv 2024.
+
+  *Evelyn Zhang and Bang Xiao and Jiayi Tang and Qianli Ma and Chang Zou and Xuefei Ning and Xuming Hu and Linfeng Zhang.*
+
+  [[Paper](https://arxiv.org/abs/2501.00375)] [[Code](https://github.com/EvelynZhang-epiclab/DaTo)] ![](https://img.shields.io/badge/DaTo-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Token_Pruning-orange) ![](https://img.shields.io/badge/Token_Caching-orange)
+
