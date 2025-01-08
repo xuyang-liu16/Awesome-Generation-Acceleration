@@ -6,7 +6,7 @@
 
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-![papercount](https://img.shields.io/badge/paper_count-50+-pink)
+![papercount](https://img.shields.io/badge/paper_count-60+-pink)
 [![Maintenance](https://img.shields.io/badge/maintained%3F-yes-green.svg)](https://github.com/Naereen/StrapDown.js/graphs/commit-activity)
 [![Last Commit](https://img.shields.io/github/last-commit/xuyang-liu16/Awesome-Diffusion-Acceleration.svg?style=flat&color=orange)](https://github.com/xuyang-liu16/Awesome-Diffusion-Acceleration)
 [![GitHub](https://img.shields.io/github/stars/xuyang-liu16/Awesome-Generation-Acceleration.svg?style=social)](https://github.com/xuyang-liu16/Awesome-Generation-Acceleration.git)  
@@ -289,7 +289,7 @@
 
    [[Paper](https://arxiv.org/abs/2406.17343)] [[Code](https://github.com/Juanerx/Q_DiT)] ![](https://img.shields.io/badge/Q_DiT-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Post_training_Quantization-orange)
 
- - **[７] SVDQunat: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models**, arXiv 2024.
+ - **[7] SVDQunat: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models**, arXiv 2024.
 
    *Muyang Li and Yujun Lin and Zhekai Zhang and Tianle Cai and Xiuyu Li and Junxian Guo and Enze Xie and Chenlin Meng and Jun-Yan Zhu and Song Han.*
 
