@@ -502,7 +502,6 @@
   [[Paper](https://arxiv.org/abs/2412.02962)] [Code] ![](https://img.shields.io/badge/PCPP-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Patch_Parallelism-orange)
 
 
-
 ## 📌 Citation
 
 Please consider giving a star ⭐ and citing 📝 this repository if you find it useful.
@@ -515,6 +514,17 @@ Please consider giving a star ⭐ and citing 📝 this repository if you find it
   url = {https://github.com/xuyang-liu16/Awesome-Generation-Acceleration},
 }
 ```
+
+## 💻 Related Works
+
+* [Awesome Token Reduction for Model Compression](https://github.com/xuyang-liu16/Awesome-Token-Reduction-for-Model-Compression): An open-source repository that curates a collection of recent awesome papers on token reduction for model compression.
+* [ToCa](https://github.com/Shenyi-Z/ToCa): A training-free acceleration method achieving nearly lossless acceleration of **1.51×** on FLUX, **1.93×** on PixArt-α, and **2.36×** on OpenSora!
+* [GlobalCom<sup>2</sup>](https://github.com/xuyang-liu16/GlobalCom2): A "global-to-local" approach for training-free acceleration of **high-resolution MLLMs** with AnyRes strategy.
+* [FiCoCo](https://github.com/kawhiiiileo/FiCoCo): A **systematic study** that proposes a unified "filter-correlate-compress" paradigm for training-free token reduction in MLLMs.
+
+## :star: Star Trends
+[![Star History Chart](https://api.star-history.com/svg?repos=xuyang-liu16/Awesome-Generation-Acceleration&type=Timeline)](https://star-history.com/#xuyang-liu16/Awesome-Generation-Acceleration&Timeline)
+
 
 ## 🧑‍💻 Contribution
 
