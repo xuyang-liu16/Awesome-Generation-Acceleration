@@ -41,6 +41,8 @@
   - [Deployment Optimization](#deployment-optimization)
 - [Training-free Generation Acceleration](TRAIN-FREE.md)
 - [Token-wise Generation Acceleration](TOKEN-WISE.md)
+  - [Image Generation](TOKEN-WISE.md#image-generation)
+  - [Video Generation](TOKEN-WISE.md#video-generation)
     
  
 ## 💬 <span id="head1"> *Keywords* </span>
