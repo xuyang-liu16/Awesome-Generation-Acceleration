@@ -7,6 +7,17 @@
 </div>
 
 
+## 📚 <span id="head1"> *Contents* </span>
+
+- [Token-wise Generation Acceleration](TOKEN-WISE.md)
+  - [Image Generation](#image-generation)
+  - [Video Generation](#video-generation)
+
+
+## 💬 <span id="head1"> *Keywords* </span>
+![](https://img.shields.io/badge/Method_Abbreviation-blue) ![](https://img.shields.io/badge/Downstream_Application-green)  ![](https://img.shields.io/badge/W./W.O._Training-brown) ![](https://img.shields.io/badge/Reduction_Criteria-purple) ![](https://img.shields.io/badge/Reduction_Mechanism-orange)
+
+
 ### 🖼️ Image Generation:
 
 
