@@ -250,6 +250,10 @@
   *Evelyn Zhang and Bang Xiao and Jiayi Tang and Qianli Ma and Chang Zou and Xuefei Ning and Xuming Hu and Linfeng Zhang.*
 
   [[Paper](https://arxiv.org/abs/2501.00375)] [[Code](https://github.com/EvelynZhang-epiclab/DaTo)] ![](https://img.shields.io/badge/DaTo-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Token_Pruning-orange) ![](https://img.shields.io/badge/Token_Caching-orange)
+
+- **[27] Pruning for Sparse Diffusion Models Based on Gradient Flow**, arXiv 2024.
+
+  [[Paper](https://arxiv.org/abs/2501.09464)] [Code] ![](https://img.shields.io/badge/Gradient_Flow_Pruning-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Weight_Pruning-orange) 
   
 
 ### Quantization
