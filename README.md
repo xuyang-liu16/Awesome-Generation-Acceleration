@@ -471,6 +471,18 @@
 
   [[Paper](https://arxiv.org/abs/2501.00375)] [[Code](https://github.com/EvelynZhang-epiclab/DaTo)] ![](https://img.shields.io/badge/DaTo-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Token_Pruning-orange) ![](https://img.shields.io/badge/Token_Caching-orange)
 
+- **[19] Timestep Embedding Tells: It's Time to Cache for Video Diffusion Model**, arXiv 2024.
+
+  *Liu, Feng and Zhang, Shiwei and Wang, Xiaofeng and Wei, Yujie and Qiu, Haonan and Zhao, Yuzhong and Zhang, Yingya and Ye, Qixiang and Wan, Fang.*
+  
+  [[Paper](https://arxiv.org/abs/2411.19108)] [[Code](https://github.com/ali-vilab/TeaCache)] ![](https://img.shields.io/badge/TeaCache-blue) ![](https://img.shields.io/badge/Video_Generation-green) ![](https://img.shields.io/badge/Feature_Caching-orange)
+
+- **[20] Noise Prediction Can Be Adaptively Skipped for Different Prompts Without Training**, NeurIPS 2024.
+
+  *Hancheng Ye and Jiakang Yuan and Renqiu Xia and Xiangchao Yan and Tao Chen and Junchi Yan and Botian Shi and Bo Zhang.*
+
+  [[Paper](https://arxiv.org/abs/2410.09873)] [[Code](https://github.com/Alpha-Innovator/AdaptiveDiffusion)] ![](https://img.shields.io/badge/AdaptiveDiffusion-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Feature_Caching-orange)
+  
    
 ### Deployment Optimization
 
