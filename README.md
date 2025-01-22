@@ -19,6 +19,8 @@
 
 ## 🔥 <span id="head1"> *News* </span>
 
+* **`2025/02/22`** 💥💥 Our work [ToCa](https://arxiv.org/abs/2410.05317) has been accepted by ICLR 2025! Congratulations to all collaborators!
+
 * **`2024/12/24`** 🤗🤗 We release an open-sourse repo "[Awesome-Token-Reduction-for-Model-Compression](https://github.com/xuyang-liu16/Awesome-Token-Reduction-for-Model-Compression)", which collects recent awesome token reduction papers! Feel free to contribute your suggestions!
 
 * **`2024/10/12`** 🚀🚀 We release our work [ToCa](https://arxiv.org/abs/2410.05317) about accelerating DiT models for FREE, which achieves nearly lossless acceleration of **1.51×** on FLUX, **1.93×** on PixArt-α, and **2.36×** on OpenSora! [Code](https://github.com/Shenyi-Z/ToCa) is now available!
