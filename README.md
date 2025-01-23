@@ -500,6 +500,19 @@
   
   [[Paper](https://arxiv.org/abs/2411.15034)] [[Code](https://github.com/ICTMCG/HeadRouter)] ![](https://img.shields.io/badge/HeadRouter-blue) ![](https://img.shields.io/badge/Image_Editing-green) ![](https://img.shields.io/badge/Head_Prunning-orange) ![](https://img.shields.io/badge/Dynamic_Inference-orange)
 
+- **[3] DiffiT: Diffusion Vision Transformers for Image Generation**, ECCV 2024.
+
+  *Hatamizadeh, Ali and Song, Jiaming and Liu, Guilin and Kautz, Jan and Vahdat, Arash.*
+  
+  [[Paper](https://arxiv.org/abs/2312.02139)] [[Code](https://github.com/NVlabs/DiffiT)] ![](https://img.shields.io/badge/DiffiT-blue) ![](https://img.shields.io/badge/Image_Generation-green) !![](https://img.shields.io/badge/Dynamic_Inference-orange)
+
+- **[4] Mixture of Efficient Diffusion Experts Through Automatic Interval and Sub-Network Selection**, ECCV 2024.
+
+  *Alireza Ganjdanesh and Yan Kang and Yuchen Liu and Richard Zhang and Zhe Lin and Heng Huang.*
+
+  [[Paper](https://arxiv.org/abs/2409.15557)] [Code] ![](https://img.shields.io/badge/DiffiT-blue) ![](https://img.shields.io/badge/Image_Generation-green) !![](https://img.shields.io/badge/MoE-orange) !![](https://img.shields.io/badge/Dynamic_Inference-orange)
+
+
    
 ### Deployment Optimization
 
