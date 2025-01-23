@@ -36,6 +36,7 @@
   - [Quantization](#quantization)
   - [Distillation](#distillation)
   - [Cache Mechanism](#cache-mechanism)
+  - [Dynamic Neural Networks](#dynamic-neural-networks)
   - [Deployment Optimization](#deployment-optimization)
 - [Training-free Generation Acceleration](TRAIN-FREE.md)
   - [Stable Diffusion](TRAIN-FREE.md#Training-free-Stable-Diffusion-Acceleration)
@@ -141,11 +142,11 @@
 
   [[Paper](https://arxiv.org/abs/2409.18523)] [Code] ![](https://img.shields.io/badge/TokenCache-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Token_Compression-orange)
 
-- **[8] Dynamic Diffusion Transformer**, arXiv 2024.
+- **[8] Dynamic Diffusion Transformer**, ICLR 2025.
 
   *Wangbo Zhao and Yizeng Han and Jiasheng Tang and Kai Wang and Yibing Song and Gao Huang and Fan Wang and Yang You.*
 
-  [[Paper](https://arxiv.org/abs/2410.03456)] [[Code](https://github.com/NUS-HPC-AI-Lab/Dynamic-Diffusion-Transformer)] ![](https://img.shields.io/badge/DyDiT-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Token_Compression-orange)
+  [[Paper](https://arxiv.org/abs/2410.03456)] [[Code](https://github.com/NUS-HPC-AI-Lab/Dynamic-Diffusion-Transformer)] ![](https://img.shields.io/badge/DyDiT-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Head_Pruning-orange)
 
 - **[9] ToDo: Token Downsampling for Efficient Generation of High-Resolution Images**, IJCAIw 2024.
   
@@ -484,7 +485,21 @@
   *Hancheng Ye and Jiakang Yuan and Renqiu Xia and Xiangchao Yan and Tao Chen and Junchi Yan and Botian Shi and Bo Zhang.*
 
   [[Paper](https://arxiv.org/abs/2410.09873)] [[Code](https://github.com/Alpha-Innovator/AdaptiveDiffusion)] ![](https://img.shields.io/badge/AdaptiveDiffusion-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Feature_Caching-orange)
+
+### Dynamic Neural Networks
+
+- **[1] Dynamic Diffusion Transformer**, ICLR 2025.
+
+  *Wangbo Zhao and Yizeng Han and Jiasheng Tang and Kai Wang and Yibing Song and Gao Huang and Fan Wang and Yang You.*
+
+  [[Paper](https://arxiv.org/abs/2410.03456)] [[Code](https://github.com/NUS-HPC-AI-Lab/Dynamic-Diffusion-Transformer)] ![](https://img.shields.io/badge/DyDiT-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Head_Prunning-orange) ![](https://img.shields.io/badge/Dynamic_Inference-orange)
+
+- **[2] HeadRouter: A Training-free Image Editing Framework for MM-DiTs by Adaptively Routing Attention Heads**, arXiv 2024.
+
+  *Yu Xu and Fan Tang and Juan Cao and Yuxin Zhang and Xiaoyu Kong and Jintao Li and Oliver Deussen and Tong-Yee Lee.*
   
+  [[Paper](https://arxiv.org/abs/2411.15034)] [[Code](https://github.com/ICTMCG/HeadRouter)] ![](https://img.shields.io/badge/HeadRouter-blue) ![](https://img.shields.io/badge/Image_Editing-green) ![](https://img.shields.io/badge/Head_Prunning-orange) ![](https://img.shields.io/badge/Dynamic_Inference-orange)
+
    
 ### Deployment Optimization
 
