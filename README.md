@@ -19,7 +19,7 @@
 
 ## 🔥 <span id="head1"> *News* </span>
 
-* **`2025/02/22`** 💥💥 Our work [ToCa](https://arxiv.org/abs/2410.05317) has been accepted by ICLR 2025! Congratulations to all collaborators!
+* **`2025/02/22`** 💥💥 Our work [ToCa](https://arxiv.org/abs/2410.05317) has been accepted by **ICLR 2025**! Congratulations to all collaborators!
 
 * **`2024/12/24`** 🤗🤗 We release an open-sourse repo "[Awesome-Token-Reduction-for-Model-Compression](https://github.com/xuyang-liu16/Awesome-Token-Reduction-for-Model-Compression)", which collects recent awesome token reduction papers! Feel free to contribute your suggestions!
 
