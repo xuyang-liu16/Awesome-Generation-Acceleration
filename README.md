@@ -95,6 +95,12 @@
   *Trong-Tung Nguyen and Quang Nguyen and Khoi Nguyen and Anh Tran and Cuong Pham.*
 
   [[Paper](https://arxiv.org/abs/2412.04301)] [Code] ![](https://img.shields.io/badge/SwiftEdit-blue) ![](https://img.shields.io/badge/Image_Editing-green) ![](https://img.shields.io/badge/One_Step_Diffusion-orange)
+
+- **[8] Accelerate High-Quality Diffusion Models with Inner Loop Feedback**, arXiv 2025.
+
+  *Matthew Gwilliam and Han Cai and Di Wu and Abhinav Shrivastava and Zhiyu Cheng.*
+
+  [[Paper](https://arxiv.org/abs/2501.13107)] [Code] ![](https://img.shields.io/badge/ILF-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Step_Skipping-orange)
   
   
 
@@ -485,6 +491,8 @@
   *Hancheng Ye and Jiakang Yuan and Renqiu Xia and Xiangchao Yan and Tao Chen and Junchi Yan and Botian Shi and Bo Zhang.*
 
   [[Paper](https://arxiv.org/abs/2410.09873)] [[Code](https://github.com/Alpha-Innovator/AdaptiveDiffusion)] ![](https://img.shields.io/badge/AdaptiveDiffusion-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Feature_Caching-orange)
+
+  
 
 ### Dynamic Neural Networks
 
