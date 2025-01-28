@@ -309,7 +309,11 @@
 
    [[Paper](https://arxiv.org/abs/2411.05007)] [[Code](https://github.com/mit-han-lab/nunchaku)] ![](https://img.shields.io/badge/SVDQunat-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Post_training_Quantization-orange)
 
+ - **[8] SQ-DM: Accelerating Diffusion Models with Aggressive Quantization and Temporal Sparsity**, arXiv 2025.
 
+  *Zichen Fan and Steve Dai and Rangharajan Venkatesan and Dennis Sylvester and Brucek Khailany.*
+
+  [[Paper](https://arxiv.org/abs/2501.15448)] [[Code](https://github.com/mit-han-lab/nunchaku)] ![](https://img.shields.io/badge/SQ_DM-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Post_training_Quantization-orange)
 
 
 ### Distillation
