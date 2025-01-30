@@ -206,6 +206,12 @@
 
   [[Paper](https://arxiv.org/abs/2501.00375)] [[Code](https://github.com/EvelynZhang-epiclab/DaTo)] ![](https://img.shields.io/badge/DaTo-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Similarity_Based-purple)  ![](https://img.shields.io/badge/Token_Pruning-orange) ![](https://img.shields.io/badge/Token_Caching-orange)
 
+- **[32] Negative Token Merging: Image-based Adversarial Feature Guidance**, arXiv 2024.
+
+  *Jaskirat Singh and Lindsey Li and Weijia Shi and Ranjay Krishna and Yejin Choi and Pang Wei Koh and Michael F. Cohen and Stephen Gould and Liang Zheng and Luke Zettlemoyer.*
+  
+  [[Paper](https://arxiv.org/abs/2412.01339)] [[Code](https://github.com/1jsingh/negtome)] ![](https://img.shields.io/badge/NegToMe-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Similarity_Based-purple) ![](https://img.shields.io/badge/Token_Merging-orange)
+
 
 ### Video Generation:
 
