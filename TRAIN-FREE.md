@@ -140,6 +140,13 @@ Base modals: [Stable Diffusion](https://github.com/CompVis/stable-diffusion), [S
   *Hancheng Ye and Jiakang Yuan and Renqiu Xia and Xiangchao Yan and Tao Chen and Junchi Yan and Botian Shi and Bo Zhang.*
 
   [[Paper](https://arxiv.org/abs/2410.09873)] [[Code](https://github.com/Alpha-Innovator/AdaptiveDiffusion)] ![](https://img.shields.io/badge/AdaptiveDiffusion-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Feature_Caching-orange)
+
+- **[22] Negative Token Merging: Image-based Adversarial Feature Guidance**, arXiv 2024.
+
+  *Jaskirat Singh and Lindsey Li and Weijia Shi and Ranjay Krishna and Yejin Choi and Pang Wei Koh and Michael F. Cohen and Stephen Gould and Liang Zheng and Luke Zettlemoyer.*
+  
+  [[Paper](https://arxiv.org/abs/2412.01339)] [[Code](https://github.com/1jsingh/negtome)] ![](https://img.shields.io/badge/NegToMe-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Token_Merging-orange)
+  
   
 ### Training-free Diffusion Transformer Acceleration
 Base modals: [DiT-XL](https://github.com/facebookresearch/DiT) for Image Generation, [PIXART-α](https://github.com/PixArt-alpha/PixArt-alpha) for Text2Image, [Open-Sora](https://github.com/hpcaitech/Open-Sora) and [Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan) for Text2Video.
