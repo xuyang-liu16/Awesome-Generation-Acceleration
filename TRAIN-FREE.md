@@ -226,6 +226,12 @@ Base modals: [DiT-XL](https://github.com/facebookresearch/DiT) for Image Generat
   *Liu, Feng and Zhang, Shiwei and Wang, Xiaofeng and Wei, Yujie and Qiu, Haonan and Zhao, Yuzhong and Zhang, Yingya and Ye, Qixiang and Wan, Fang.*
   
   [[Paper](https://arxiv.org/abs/2411.19108)] [[Code](https://github.com/ali-vilab/TeaCache)] ![](https://img.shields.io/badge/TeaCache-blue) ![](https://img.shields.io/badge/Video_Generation-green) ![](https://img.shields.io/badge/Feature_Caching-orange)
+
+- **[14] CAT Pruning: Cluster-Aware Token Pruning For Text-to-Image Diffusion Models**, NeurIPSw 2024.
+  
+  *Xinle Cheng, Zhuoming Chen, Zhihao Jia.*
+  
+  [[Paper](https://openreview.net/pdf/bf470617f541635cbde87fcc0ba3fdbddcef3db7.pdf)] [[Code](https://github.com/ada-cheng/CAT-Pruning)] ![](https://img.shields.io/badge/CAT_Pruning-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Token_Pruning-orange)
   
 
 ###  Training-free Auto-Regressive Generation Acceleration
