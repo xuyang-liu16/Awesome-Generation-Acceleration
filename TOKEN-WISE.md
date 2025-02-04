@@ -87,7 +87,6 @@
   
   [[Paper](https://arxiv.org/abs/2412.06028)] [[Code](https://github.com/changsn/FlexDiT)] ![](https://img.shields.io/badge/FlexDiT-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Text2Video-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
-
 - **[12] CAT Pruning: Cluster-Aware Token Pruning For Text-to-Image Diffusion Models**, NeurIPSw 2024.
   
   *Xinle Cheng, Zhuoming Chen, Zhihao Jia.*
