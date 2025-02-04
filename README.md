@@ -271,7 +271,12 @@
   *Jaskirat Singh and Lindsey Li and Weijia Shi and Ranjay Krishna and Yejin Choi and Pang Wei Koh and Michael F. Cohen and Stephen Gould and Liang Zheng and Luke Zettlemoyer.*
   
   [[Paper](https://arxiv.org/abs/2412.01339)] [[Code](https://github.com/1jsingh/negtome)] ![](https://img.shields.io/badge/NegToMe-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Token_Merging-orange)
+
+- **[29] CAT Pruning: Cluster-Aware Token Pruning For Text-to-Image Diffusion Models**, NeurIPSw 2024.
+
+  *Xinle Cheng and Zhuoming Chen and Zhihao Jia.*
   
+  [[Paper](https://arxiv.org/abs/2502.00433)] [[Code](https://github.com/ada-cheng/CAT-Pruning)] ![](https://img.shields.io/badge/CAT_Pruning-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Token_Pruning-orange)
   
 
 ### Quantization
