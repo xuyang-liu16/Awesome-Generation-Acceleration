@@ -181,7 +181,7 @@ Base modals: [DiT-XL](https://github.com/facebookresearch/DiT) for Image Generat
   
   [[Paper](https://arxiv.org/abs/2410.05317)] [[Code](https://github.com/Shenyi-Z/ToCa)] ![](https://img.shields.io/badge/ToCa-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Text2Video-green) ![](https://img.shields.io/badge/Cache_Mechanism-orange)
 
-- **[6] FasterCache: Training-Free Video Diffusion Model Acceleration with High Quality**, arXiv 2024.
+- **[6] FasterCache: Training-Free Video Diffusion Model Acceleration with High Quality**, ICLR 2025.
 
   *Zhengyao Lv and Chenyang Si and Junhao Song and Zhenyu Yang and Yu Qiao and Ziwei Liu and Kwan-Yee K. Wong.*
   
