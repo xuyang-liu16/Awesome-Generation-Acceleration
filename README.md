@@ -277,7 +277,13 @@
   *Xinle Cheng and Zhuoming Chen and Zhihao Jia.*
   
   [[Paper](https://arxiv.org/abs/2502.00433)] [[Code](https://github.com/ada-cheng/CAT-Pruning)] ![](https://img.shields.io/badge/CAT_Pruning-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Token_Pruning-orange)
-  
+
+- **[30] UniCP: A Unified Caching and Pruning Framework for Efficient Video Generation**, arXiv 2025.
+
+  *Wenzhang Sun and Qirui Hou and Donglin Di and Jiahui Yang and Yongjia Ma and Jianxun Cui.*
+
+  [[Paper](https://arxiv.org/abs/2502.04393)] [Code] ![](https://img.shields.io/badge/UniCP-blue) ![](https://img.shields.io/badge/Video_Generation-green) ![](https://img.shields.io/badge/Block_Caching-orange) ![](https://img.shields.io/badge/Layer_Pruning-orange)
+
 
 ### Quantization
 
@@ -509,6 +515,12 @@
   *Hancheng Ye and Jiakang Yuan and Renqiu Xia and Xiangchao Yan and Tao Chen and Junchi Yan and Botian Shi and Bo Zhang.*
 
   [[Paper](https://arxiv.org/abs/2410.09873)] [[Code](https://github.com/Alpha-Innovator/AdaptiveDiffusion)] ![](https://img.shields.io/badge/AdaptiveDiffusion-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Feature_Caching-orange)
+
+- **[21] UniCP: A Unified Caching and Pruning Framework for Efficient Video Generation**, arXiv 2025.
+
+  *Wenzhang Sun and Qirui Hou and Donglin Di and Jiahui Yang and Yongjia Ma and Jianxun Cui.*
+
+  [[Paper](https://arxiv.org/abs/2502.04393)] [Code] ![](https://img.shields.io/badge/UniCP-blue) ![](https://img.shields.io/badge/Video_Generation-green) ![](https://img.shields.io/badge/Block_Caching-orange) ![](https://img.shields.io/badge/Layer_Pruning-orange)
 
   
 
