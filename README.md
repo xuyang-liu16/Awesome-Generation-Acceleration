@@ -526,6 +526,30 @@
 
 ### Efficient Attention
 
+- **[1] Agent Attention: On the Integration of Softmax and Linear Attention**, ECCV 2024.
+  
+  *Han, Dongchen and Ye, Tianzhu and Han, Yizeng and Xia, Zhuofan and Song, Shiji and Huang, Gao.*
+  
+  [[Paper](https://arxiv.org/abs/2312.01026)] [[Code](https://github.com/LeapLabTHU/Agent-Attention)] ![](https://img.shields.io/badge/Agent_Attention-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Linear_Attention-orange)
+
+- **[2] SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformers**, ICLR 2025.
+  
+  *Enze Xie and Junsong Chen and Junyu Chen and Han Cai and Haotian Tang and Yujun Lin and Zhekai Zhang and Muyang Li and Ligeng Zhu and Yao Lu and Song Han.*
+  
+  [[Paper](https://arxiv.org/abs/2410.10629)] [[Code](https://github.com/NVlabs/Sana)] ![](https://img.shields.io/badge/SANA-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Linear_Attention-orange)
+
+- **[3] SANA 1.5: Efficient Scaling of Training-Time and Inference-Time Compute in Linear Diffusion Transformer**, arXiv 2025.
+  
+  *Enze Xie and Junsong Chen and Yuyang Zhao and Jincheng Yu and Ligeng Zhu and Yujun Lin and Zhekai Zhang and Muyang Li and Junyu Chen and Han Cai and Bingchen Liu and Daquan Zhou and Song Han.*
+  
+  [[Paper](https://arxiv.org/abs/2501.18427)] [[Code](https://github.com/NVlabs/Sana)] ![](https://img.shields.io/badge/SANA_1.5-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Linear_Attention-orange)
+
+- **[4] Fast Video Generation with Sliding Tile Attention**, arXiv 2025.
+
+  *Peiyuan Zhang and Yongqi Chen and Runlong Su and Hangliang Ding and Ion Stoica and Zhenghong Liu and Hao Zhang.*
+
+  [[Paper](https://arxiv.org/abs/2502.04507)] [Code] ![](https://img.shields.io/badge/STA-blue) ![](https://img.shields.io/badge/Video_Generation-green) ![](https://img.shields.io/badge/3D_Window_Attention-orange)
+
 
 
 ### Dynamic Neural Networks
