@@ -36,6 +36,7 @@
   - [Quantization](#quantization)
   - [Distillation](#distillation)
   - [Cache Mechanism](#cache-mechanism)
+  - [Efficient Attention](#effieicient-attention)
   - [Dynamic Neural Networks](#dynamic-neural-networks)
   - [Deployment Optimization](#deployment-optimization)
 - [Training-free Generation Acceleration](TRAIN-FREE.md)
@@ -522,7 +523,10 @@
 
   [[Paper](https://arxiv.org/abs/2502.04393)] [Code] ![](https://img.shields.io/badge/UniCP-blue) ![](https://img.shields.io/badge/Video_Generation-green) ![](https://img.shields.io/badge/Block_Caching-orange) ![](https://img.shields.io/badge/Layer_Pruning-orange)
 
-  
+
+### Efficient Attention
+
+
 
 ### Dynamic Neural Networks
 
