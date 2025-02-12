@@ -550,6 +550,12 @@
 
   [[Paper](https://arxiv.org/abs/2502.04507)] [Code] ![](https://img.shields.io/badge/STA-blue) ![](https://img.shields.io/badge/Video_Generation-green) ![](https://img.shields.io/badge/3D_Window_Attention-orange)
 
+- **[5] DSV: Exploiting Dynamic Sparsity to Accelerate Large-Scale Video DiT Training**, arXiv 2025.
+
+  *Xin Tan and Yuetao Chen and Yimin Jiang and Xing Chen and Kun Yan and Nan Duan and Yibo Zhu and Daxin Jiang and Hong Xu.*
+
+  [[Paper](https://arxiv.org/abs/2502.07590)] [Code] ![](https://img.shields.io/badge/DSV-blue) ![](https://img.shields.io/badge/Video_Generation-green) ![](https://img.shields.io/badge/Sparse_Attention-orange)
+
 
 
 ### Dynamic Neural Networks
