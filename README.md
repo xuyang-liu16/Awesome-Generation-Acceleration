@@ -36,7 +36,7 @@
   - [Quantization](#quantization)
   - [Distillation](#distillation)
   - [Cache Mechanism](#cache-mechanism)
-  - [Efficient Attention](#effieicient-attention)
+  - [Efficient Attention](#efficient-attention)
   - [Dynamic Neural Networks](#dynamic-neural-networks)
   - [Deployment Optimization](#deployment-optimization)
 - [Training-free Generation Acceleration](TRAIN-FREE.md)
