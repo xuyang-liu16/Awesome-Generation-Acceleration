@@ -6,7 +6,7 @@
 
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-![papercount](https://img.shields.io/badge/paper_count-60+-pink)
+![papercount](https://img.shields.io/badge/paper_count-100+-pink)
 [![Maintenance](https://img.shields.io/badge/maintained%3F-yes-green.svg)](https://github.com/Naereen/StrapDown.js/graphs/commit-activity)
 [![Last Commit](https://img.shields.io/github/last-commit/xuyang-liu16/Awesome-Diffusion-Acceleration.svg?style=flat&color=orange)](https://github.com/xuyang-liu16/Awesome-Diffusion-Acceleration)
 [![GitHub](https://img.shields.io/github/stars/xuyang-liu16/Awesome-Generation-Acceleration.svg?style=social)](https://github.com/xuyang-liu16/Awesome-Generation-Acceleration.git)  
@@ -318,19 +318,19 @@
 
   [[Paper](https://arxiv.org/abs/2409.07756)] [Code] ![](https://img.shields.io/badge/DiTAS-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Post_training_Quantization-orange)
 
- - **[6] Q-dit: Accurate post-training quantization for diffusion transformers**, arXiv 2024.
+- **[6] Q-dit: Accurate post-training quantization for diffusion transformers**, arXiv 2024.
 
    *Chen, Lei and Meng, Yuan and Tang, Chen and Ma, Xinzhu and Jiang, Jingyan and Wang, Xin and Wang, Zhi and Zhu, Wenwu.*
 
    [[Paper](https://arxiv.org/abs/2406.17343)] [[Code](https://github.com/Juanerx/Q_DiT)] ![](https://img.shields.io/badge/Q_DiT-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Post_training_Quantization-orange)
 
- - **[7] SVDQunat: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models**, arXiv 2024.
+- **[7] SVDQunat: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models**, arXiv 2024.
 
    *Muyang Li and Yujun Lin and Zhekai Zhang and Tianle Cai and Xiuyu Li and Junxian Guo and Enze Xie and Chenlin Meng and Jun-Yan Zhu and Song Han.*
 
    [[Paper](https://arxiv.org/abs/2411.05007)] [[Code](https://github.com/mit-han-lab/nunchaku)] ![](https://img.shields.io/badge/SVDQunat-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Post_training_Quantization-orange)
 
- - **[8] SQ-DM: Accelerating Diffusion Models with Aggressive Quantization and Temporal Sparsity**, arXiv 2025.
+- **[8] SQ-DM: Accelerating Diffusion Models with Aggressive Quantization and Temporal Sparsity**, arXiv 2025.
 
   *Zichen Fan and Steve Dai and Rangharajan Venkatesan and Dennis Sylvester and Brucek Khailany.*
 
