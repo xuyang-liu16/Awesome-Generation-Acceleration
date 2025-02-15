@@ -556,6 +556,11 @@
 
   [[Paper](https://arxiv.org/abs/2502.07590)] [Code] ![](https://img.shields.io/badge/DSV-blue) ![](https://img.shields.io/badge/Video_Generation-green) ![](https://img.shields.io/badge/Sparse_Attention-orange)
 
+- **[6] Qihoo-T2X: An Efficient Proxy-Tokenized Diffusion Transformer for Text-to-Any-Task**, ICLR 2025.
+  
+  *Jing Wang and Ao Ma and Jiasong Feng and Dawei Leng and Yuhui Yin and Xiaodan Liang.*
+
+  [[Paper](https://arxiv.org/abs/2409.04005)] [[Code](https://github.com/360CVGroup/Qihoo-T2X)] ![](https://img.shields.io/badge/Qihoo_T2X-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Video_Generation-green) ![](https://img.shields.io/badge/Sparse_Attention-orange) ![](https://img.shields.io/badge/Window_Attention-orange)
 
 
 ### Dynamic Neural Networks
@@ -619,6 +624,7 @@
   *XiuYu Zhang and Zening Luo and Michelle E. Lu.*
 
   [[Paper](https://arxiv.org/abs/2412.02962)] [Code] ![](https://img.shields.io/badge/PCPP-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Patch_Parallelism-orange)
+
 
 
 ## <span id="head1"> 📌 *Citation* </span>
