@@ -232,6 +232,12 @@ Base modals: [DiT-XL](https://github.com/facebookresearch/DiT) for Image Generat
   *Xinle Cheng, Zhuoming Chen, Zhihao Jia.*
   
   [[Paper](https://openreview.net/pdf/bf470617f541635cbde87fcc0ba3fdbddcef3db7.pdf)] [[Code](https://github.com/ada-cheng/CAT-Pruning)] ![](https://img.shields.io/badge/CAT_Pruning-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Token_Pruning-orange)
+
+- **[15] Region-Adaptive Sampling for Diffusion Transformers**, arXiv 2025.
+
+  *Ziming Liu and Yifan Yang and Chengruidong Zhang and Yiqi Zhang and Lili Qiu and Yang You and Yuqing Yang.*
+
+  [[Paper](https://arxiv.org/abs/2502.10389)] [[Code](https://github.com/microsoft/RAS)] ![](https://img.shields.io/badge/RAS-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Token_Caching-orange)
   
 
 ###  Training-free Auto-Regressive Generation Acceleration
