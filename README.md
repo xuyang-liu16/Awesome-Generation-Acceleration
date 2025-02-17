@@ -523,6 +523,12 @@
 
   [[Paper](https://arxiv.org/abs/2502.04393)] [Code] ![](https://img.shields.io/badge/UniCP-blue) ![](https://img.shields.io/badge/Video_Generation-green) ![](https://img.shields.io/badge/Block_Caching-orange) ![](https://img.shields.io/badge/Layer_Pruning-orange)
 
+- **[22] Region-Adaptive Sampling for Diffusion Transformers**, arXiv 2025.
+
+  *Ziming Liu and Yifan Yang and Chengruidong Zhang and Yiqi Zhang and Lili Qiu and Yang You and Yuqing Yang.*
+
+  [[Paper](https://arxiv.org/abs/2502.10389)] [[Code](https://github.com/microsoft/RAS)] ![](https://img.shields.io/badge/RAS-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Token_Caching-orange) 
+
 
 ### Efficient Attention
 
