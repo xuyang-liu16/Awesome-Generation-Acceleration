@@ -211,6 +211,12 @@
   
   [[Paper](https://arxiv.org/abs/2412.01339)] [[Code](https://github.com/1jsingh/negtome)] ![](https://img.shields.io/badge/NegToMe-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Similarity_Based-purple) ![](https://img.shields.io/badge/Token_Merging-orange)
 
+- **[33] Region-Adaptive Sampling for Diffusion Transformers**, arXiv 2025.
+
+  *Ziming Liu and Yifan Yang and Chengruidong Zhang and Yiqi Zhang and Lili Qiu and Yang You and Yuqing Yang.*
+
+  [[Paper](https://arxiv.org/abs/2502.10389)] [[Code](https://github.com/microsoft/RAS)] ![](https://img.shields.io/badge/RAS-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Similarity_Based-purple) ![](https://img.shields.io/badge/Distance_Based-purple) ![](https://img.shields.io/badge/Token_Caching-orange)
+
 
 ### Video Generation:
 
