@@ -568,6 +568,12 @@
 
   [[Paper](https://arxiv.org/abs/2409.04005)] [[Code](https://github.com/360CVGroup/Qihoo-T2X)] ![](https://img.shields.io/badge/Qihoo_T2X-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Video_Generation-green) ![](https://img.shields.io/badge/Sparse_Attention-orange) ![](https://img.shields.io/badge/Window_Attention-orange)
 
+- **[7] RelaCtrl: Relevance-Guided Efficient Control for Diffusion Transformers**, arXiv 2025.
+
+  *Ke Cao and Jing Wang and Ao Ma and Jiasong Feng and Zhanjie Zhang and Xuanhua He and Shanyuan Liu and Bo Cheng and Dawei Leng and Yuhui Yin and Jie Zhang.*
+
+  [[Paper](https://arxiv.org/abs/2502.14377)] [[Code](https://relactrl.github.io/RelaCtrl/)] ![](https://img.shields.io/badge/RelaCtrl-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Sparse_Attention-orange) ![](https://img.shields.io/badge/Window_Attention-orange)
+
 
 ### Dynamic Neural Networks
 
@@ -594,6 +600,12 @@
   *Alireza Ganjdanesh and Yan Kang and Yuchen Liu and Richard Zhang and Zhe Lin and Heng Huang.*
 
   [[Paper](https://arxiv.org/abs/2409.15557)] [Code] ![](https://img.shields.io/badge/DiffiT-blue) ![](https://img.shields.io/badge/Image_Generation-green) !![](https://img.shields.io/badge/MoE-orange) !![](https://img.shields.io/badge/Dynamic_Inference-orange)
+
+- **[5] RelaCtrl: Relevance-Guided Efficient Control for Diffusion Transformers**, arXiv 2025.
+
+  *Ke Cao and Jing Wang and Ao Ma and Jiasong Feng and Zhanjie Zhang and Xuanhua He and Shanyuan Liu and Bo Cheng and Dawei Leng and Yuhui Yin and Jie Zhang.*
+
+  [[Paper](https://arxiv.org/abs/2502.14377)] [[Code](https://relactrl.github.io/RelaCtrl/)] ![](https://img.shields.io/badge/RelaCtrl-blue) ![](https://img.shields.io/badge/Text2Image-green) !![](https://img.shields.io/badge/Dynamic_Inference-orange)
 
 
    
