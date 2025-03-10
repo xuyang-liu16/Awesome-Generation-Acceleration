@@ -243,7 +243,7 @@
 
   [[Paper](https://arxiv.org/abs/2411.07132)] [[Code](https://github.com/hutaiHang/ToMe)] ![](https://img.shields.io/badge/ToMe-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Token_Merging-orange)
 
-- **[24] Layer- and Timestep-Adaptive Differentiable Token Compression Ratios for Efficient Diffusion Transformers**, arXiv 2024.
+- **[24] Layer- and Timestep-Adaptive Differentiable Token Compression Ratios for Efficient Diffusion Transformers**, CVPR 2025.
 
   *Haoran You and Connelly Barnes and Yuqian Zhou and Yan Kang and Zhenbang Du and Wei Zhou and Lingzhi Zhang and Yotam Nitzan and Xiaoyang Liu and Zhe Lin and Eli Shechtman and Sohrab Amirghodsi and Yingyan Celine Lin.*
   
