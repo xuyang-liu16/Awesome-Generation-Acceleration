@@ -667,7 +667,7 @@ Please consider giving a star ⭐ and citing 📝 this repository if you find it
 
 ## <span id="head1"> 💻 *Related Works* </span>
 
-* [Awesome Token Reduction for Model Compression](https://github.com/xuyang-liu16/Awesome-Token-Reduction-for-Model-Compression): An open-source repository that curates a collection of recent awesome papers on token reduction for model compression.
+* [Awesome Token-level Model Compression](https://github.com/xuyang-liu16/Awesome-Token-level-Model-Compression): An open-source repository that curates a collection of recent awesome papers on token reduction for model compression.
 * [Token-wise Feature Caching (ToCa)](https://github.com/Shenyi-Z/ToCa): A training-free acceleration method achieving nearly lossless acceleration of **1.51×** on FLUX, **1.93×** on PixArt-α, and **2.36×** on OpenSora!
 
 ## <span id="head1"> ⭐ *Stars Trends* </span>
