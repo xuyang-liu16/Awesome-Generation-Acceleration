@@ -543,7 +543,7 @@
   
   *Han, Dongchen and Ye, Tianzhu and Han, Yizeng and Xia, Zhuofan and Song, Shiji and Huang, Gao.*
   
-  [[Paper](https://arxiv.org/abs/2312.01026)] [[Code](https://github.com/LeapLabTHU/Agent-Attention)] ![](https://img.shields.io/badge/Agent_Attention-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Linear_Attention-orange)
+  [[Paper](https://arxiv.org/abs/2312.08874)] [[Code](https://github.com/LeapLabTHU/Agent-Attention)] ![](https://img.shields.io/badge/Agent_Attention-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Linear_Attention-orange)
 
 - **[2] SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformers**, ICLR 2025.
   
